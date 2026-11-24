@@ -76,20 +76,20 @@ All rates use total rows in `Outlets` (**800 records**) as the denominator unles
 ## 5. Dashboard Preview & Analytical Commentary
 
 ### Page 1: Master Data Hygiene
-![Page 1 - Master Data Hygiene](images/page1_master_data_hygiene.png)
+![Page 1 - Master Data Hygiene](images/page1_master_data_hygiene.jpg)
 * **Observations:** Clean master data accounts for **56.6%** (453/800 records). *Stale Data* (52.4%) and *Pending Verification* (23.5% across `Outlets`; 176 base audit logs) represent the largest data quality gaps.
 * **Analytical Commentary:** The simulated dataset contains duplicate records (11.0%) and non-standard district formats (11.0%), illustrating potential data quality issues that may arise from unrestricted free-text input. Left unaddressed, stale and unverified records may affect the reliability of outlet master data and could create challenges for downstream sales planning.
 * **Proposed Controls:** Implement dropdown validation for District/Channel fields and real-time duplicate key checks on data capture forms, paired with automated 90-day record refresh reminders.
 
 ### Page 2: Market Coverage & Segmentation
-![Page 2 - Market Coverage & Segmentation](images/page2_market_coverage.png)
+![Page 2 - Market Coverage & Segmentation](images/page2_market_coverage.jpg)
 * **Observations:** Across the simulated dataset, Tier A outlets (~20.1% overall share) appear concentrated in central and eastern districts (*District 1, District 3, Binh Thanh*) and within rule-mapped *Nightlife* and *Dining* segments. Roughly 4.0% of active records exhibit closed/active status mismatches (`Is_Status_Mismatch`).
 * **Analytical Commentary:** The simulated segmentation shows a concentration of Tier A outlets in selected districts and channel segments. These patterns demonstrate how outlet segmentation can support coverage analysis, but **do not represent verified commercial potential** (as tiers were synthetically generated without underlying sales volume data).
 * **Analytical Commentary:** The simulated segmentation shows a concentration of Tier A outlets in selected districts and channel segments. These patterns demonstrate how outlet segmentation can support coverage analysis, but do not represent verified commercial potential (as tiers were synthetically generated without underlying sales volume data).
 * **Next Steps for Business Application:** Further validation with actual sales performance, outlet volume potential, and Trade Marketing investment data would be required before making POSM or key account resource allocation decisions.
 
 ### Page 3: Field Operations & Issue Tracking
-![Page 3 - Field Operations & Issue Tracking](images/page3_field_operations.png)
+![Page 3 - Field Operations & Issue Tracking](images/page3_field_operations.jpg)
 * **Observations:** Within the simulated operational dataset, Team_Central_1 has the largest pending verification backlog (50 records, including 11 Tier A outlets), followed by Team_West (36 records, including 6 Tier A outlets). The overall issue resolution rate is 33.3%, calculated from the simulated Data_Issue_Log. Monthly record refresh trends (May–November 2026) track verification progress across all 800 records.
 * **Analytical Commentary:** Monitoring pending verification records by surveyor team and potential tier helps illustrate how an operations team could identify workload concentration and prioritize follow-up activities, alongside a prioritized action table of unverified Tier A outlets.
 * **Proposed Monitoring Rule:** A conceptual 7-day verification target could be introduced for pending Tier A outlets. This is a proposed portfolio governance benchmark, not an official HEINEKEN SLA. Actual SLA monitoring would require reliable verification request and completion timestamps.
