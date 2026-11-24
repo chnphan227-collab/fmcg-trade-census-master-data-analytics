@@ -1,0 +1,801 @@
+﻿Outlet_ID,Outlet_Name,Latitude,Longitude,Channel,District,Address,Phone,Status,Verification_Status,Data_Source,Surveyor_Team,Potential_Tier,Last_Updated
+OUT_1697,Cha Wei Wei,10.7551678,106.6745247,Cafe,Quận 7,,0830028427,Active,Verified,Field Survey,Team_South,Tier C,2026-11-17
+OUT_1668,Otoke Chicken (Đã đóng cửa),10.8006214,106.6844872,Restaurant,Quận Phú Nhuận,178 Phan Xích Long,,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-09-11
+OUT_1064,Anh Thư,10.752833,106.6521073,Unknown,Quận 3,56 Đường Nguyễn Trãi,0833342708,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-10-30
+OUT_1534,Cửa Hàng Pizza 4P's,10.7733638,106.6976762,Restaurant,Quận 5,94 Thủ Khoa Huân,0989587020,Active,Verified,Distributor Data,Team_West,Tier A,2026-08-24
+OUT_1067,Cà phê Nha,10.7587908,106.6851494,Bistro,quận 1,189 Hẻm 385 Đường Nguyễn Trãi,0904699013,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-10-11
+OUT_1622,Siêu Thị Và Cà Phê Phúc Lộc Thọ,10.7304964,106.6529482,Cafe,TP Thủ Đức,197 22,0979290600,Active,Verified,Field Survey,Team_East,Tier B,2026-08-06
+OUT_1347,Taste of Saigon,10.7927146,106.7222581,Restaurant,Quận 5,261 Đường số 22,0703865577,Active,Pending Verification,Distributor Data,Team_West,Tier C,2026-11-05
+OUT_1491,The Coffee Bean & Tea Leaf,10.7680657,106.695136,Cafe,Quận 3,124 Đường số 17,0709998808,Active,Verified,Field Survey,Team_Central_1,Tier A,2026-09-28
+OUT_1761,Hiên Nhà Coffe,10.7970307,106.6202796,Cafe,Quận 7,  228 Lê Đình Thám ,0915717320 ,Active,Verified,Distributor Data,Team_South,Tier B,2026-05-28
+OUT_1457,Nhà Hàng Little Viet,10.7721763,106.6919054,Restaurant,Quận 10,132 Đường số 44,,Active,Verified,Field Survey,Team_West,Tier A,2026-07-03
+OUT_1066,Nhà Hàng Nanna's,10.7692421,106.6934409,Restaurant,Quận 7,285 Đường số 47,0975175183,Active,Verified,Distributor Data,Team_South,Tier A,2026-09-29
+OUT_1287,Guum Cafe,10.8060498,106.7348506,Cafe,Quận Tân Bình,44 Hẻm 51 Lê Văn Miến,0837517016,Active,Pending Verification,Field Survey,Team_North,Tier B,2026-06-09
+OUT_1636,Nhà Hàng Menya Takeichi & Yakitori Shindo (Đã đóng cửa),10.7696694,106.6908274,Restaurant,Quận 5,,0911241272,Active,Pending Verification,Field Survey,Team_West,Tier A,2026-07-21
+OUT_1068,Cơm Tấm 68,10.7946279,106.7022018,Bistro,Quận Phú Nhuận,59 Đường số 21,,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-08-14
+OUT_1328,Nhà Hàng Chay Thăng Hoa 487,10.7852577,106.6422916,Restaurant,Quận 10,159 Đường số 46,0708814353,Active,Verified,Distributor Data,Team_West,Tier C,2026-06-19
+OUT_1396,Hoa Tây Nguyên,10.7911503,106.7017976,Cafe,Quận Tân Bình,293 Đường số 7,0832885744,Active,Verified,Sales Rep Audit,Team_North,Tier C,2026-08-28
+OUT_1245,Như Ý Chay,10.786431,106.6921868,Restaurant,Quận 1,35 Đường số 42,0709108589,Active,Pending Verification,Field Survey,Team_Central_1,Tier A,2026-09-20
+OUT_1378,Om,10.7890844,106.690899,Restaurant,Quận 5,225 Đường số 3,0918184518,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-07-01
+OUT_1611,Nhà Hàng Namo,10.777874,106.7037686,Restaurant,Q. Bình Thạnh,74 Hai Bà Trưng,0704597010,Active,Verified,Field Survey,Team_East,Tier C,2026-10-22
+OUT_1527,Xu Bar - Hai Bà Trưng,10.7769526,106.7044774,Bar,Quận Tân Bình,280 Đường số 40,0985218230,Active,Verified,Field Survey,Team_North,Tier B,2026-06-26
+OUT_1659,Nhà Hàng Chay Garden,10.778213,106.6907115,Restaurant,Binh Thanh,70 Đường số 18,0830494787,Active,Verified,Distributor Data,Team_East,Tier B,2026-08-09
+OUT_1530,Hừng Hoa Beer & Cinema,10.7799134,106.6766721,Bar,Q3,90 Hòa Hưng,0983533448,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-06-04
+OUT_1623,Cà Phê Nguyên Chất,10.7806227,106.6798438,Cafe,Quận Bình Thạnh,291 Nguyễn Thông,0838068671,Active,Verified,Field Survey,Team_East,Tier B,2026-11-09
+OUT_1722,Cafe 29,10.7573018,106.6628108,Cafe,Quận 10,64 Đường Nguyễn Kim,0919818984,Active,Verified,Field Survey,Team_West,Tier C,2026-10-29
+OUT_1361,Nhà Hàng Haji Osman,10.7717408,106.6969067,Restaurant,Thủ Đức,152 Đường số 31,0329916247,Active,Verified,Field Survey,Team_East,Tier A,2026-07-02
+OUT_1031,Starbucks,10.8130931,106.6630019,Cafe,Quận Bình Thạnh,35 Đường số 49,0919933083,Active,Pending Verification,Distributor Data,Team_East,Tier B,2026-07-27
+OUT_1261,Highlands Coffee,10.8012431,106.652915,Cafe,Quận 3,189 Đường số 11,0324216894,Active,Pending Verification,Distributor Data,Team_Central_1,Tier A,2026-09-08
+OUT_1638,Cà Phê Saigon Casa,10.7883615,106.6850468,Cafe,Quận 5,161 Đường số 7,0326704310,Active,Verified,Field Survey,Team_West,Tier B,2026-09-03
+OUT_1747,Cà Phê Runam Boutique,10.8018907,106.748093,Cafe,Binh Thanh,87 Đường số 5,0835990048,Active,Verified,Field Survey,Team_East,Tier A,2026-10-16
+OUT_1571,Lục Nguyên,10.7523279,106.6671076,Restaurant,Thành phố Thủ Đức,266 Đường Trần Hưng Ðạo,0320410276,Active,Verified,Distributor Data,Team_East,Tier A,2026-08-12
+OUT_1216,Nhà hàng Tuấn Mập,10.7870433,106.6350497,Restaurant,Quận 1,331 Đường số 33,0930506149,Active,Pending Verification,Field Survey,Team_Central_1,Tier C,2026-10-04
+OUT_1079,Cơm Tấm Đêm,10.770048,106.6319454,Restaurant,Quận Tân Bình,14 Lũy Bán Bích,0908860084,Active,Verified,Field Survey,Team_North,Tier B,2026-05-30
+OUT_1579,Cà Phê Gió Bấc,10.783145,106.6955418,Cafe,Quận Tân Bình,280 Công trường Quốc tế,0910939111,Active,Verified,Field Survey,Team_North,Tier C,2026-07-19
+OUT_1384,Diamond Island Yacht Club,10.7798348,106.7466791,Restaurant,Dist 3,228 Đường số 25,0977333433,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier B,2026-10-22
+OUT_1040,NOIRE Cafe & Bistro The Mett - Metropole,10.7783755,106.7139718,Cafe,Thành phố Thủ Đức,31 Trần Bạch Đằng,0321612275,Active,Verified,Field Survey,Team_East,Tier C,2026-08-29
+OUT_1024,Nhà Hàng Zìn Ký,10.7692725,106.6904171,Restaurant,Quận Bình Thạnh,219 Đường Nguyễn Trãi,0830283857,Active,Verified,Field Survey,Team_East,Tier B,2026-08-18
+OUT_1693,Highlands Coffee,10.7754667,106.6994608,Cafe,Quận 3,314 Đường số 12,0936952499,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-10-22
+OUT_1399,Nhà hàng Bình Xuyên,10.731559,106.6727744,Restaurant,Quận 3,145 Phạm Hùng,0985061593,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-10-01
+OUT_1797,Đại Thống,10.752953,106.670864,Restaurant,Quận 10,  80 Đường Trần Hưng Ðạo ,0327177514 ,Active,Pending Verification,Sales Rep Audit,Team_West,Tier C,2026-07-18
+OUT_1742,Cà Phê Trứng Nàng K,10.7528541,106.7197472,Cafe,Quận 7,315 Đường Tân Mỹ,0836263934,Active,Verified,Field Survey,Team_South,Tier B,2026-11-07
+OUT_1140,Trung Nguyên Coffee,10.7826381,106.6769835,Cafe,Quận 10,270 Đường số 40,0703745458,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-10-25
+OUT_1251,Bò Né Thanh Tuyền,10.7655205,106.7041881,Restaurant,Quận 4,303 Hẻm 20 Nguyễn Trường Tộ,0917248251,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-08-28
+OUT_1175,Nhà Hàng True Beef,10.777461,106.6791688,Restaurant,Thủ Đức,40 Đường số 31,0981038657,Active,Verified,Distributor Data,Team_East,Tier A,2026-09-28
+OUT_1324,Ẩm Thực Chay Tuệ,10.7920064,106.698333,Restaurant,Quận Bình Thạnh,299 Đường số 32,0915814491,Active,Verified,Field Survey,Team_East,Tier C,2026-10-19
+OUT_1596,Thiên Nhiên,10.7828693,106.7515473,Restaurant,Quận 7,181 Đường số 44,0939310270,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-11-13
+OUT_1526,Lam Ngọc (Đã đóng cửa),10.7546854,106.6778569,Restaurant,Quận 7,181 Đường Trần Hưng Ðạo,0907823578,Active,Verified,Field Survey,Team_South,Tier C,2026-09-22
+OUT_1424,Vĩnh Phong,10.7544851,106.6743002,Restaurant,Quận 4,224 Đường Phan Văn Trị,0700136730,Active,Verified,Field Survey,Team_South,Tier B,2026-08-09
+OUT_1597,Phở Hưng,10.7724516,106.6724168,Restaurant,Quận 5,315 Lê Hồng Phong,0839032020,Active,Verified,Distributor Data,Team_West,Tier B,2026-10-12
+OUT_1605,Lương Sơn Quán,10.7796141,106.7026193,Restaurant,Quận 5,208 Đường số 42,0832324876,Active,Verified,Field Survey,Team_West,Tier C,2026-08-19
+OUT_1535,Sunplus Coffee,10.796094,106.6365554,Cafe,Quận 4,70 Đường số 9,0830160166,Active,Verified,Distributor Data,Team_South,Tier B,2026-09-06
+OUT_1266,Nhà Hàng Gold One 5,10.7659379,106.696495,Restaurant,Quận 1,315 Đường Nguyễn Thái Học,0909010016,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-07-13
+OUT_1110,Quán Pub Warning Zone 99,10.7761246,106.6900658,Pub,Quận Bình Thạnh,291 Bà Huyện Thanh Quan,0901438889,Active,Verified,Field Survey,Team_East,Tier B,2026-09-25
+OUT_1667,Cà Phê Quyên,10.7639921,106.7013763,Cafe,Quận 5,342 Đường số 41,0938554451,Active,Verified,Field Survey,Team_West,Tier A,2026-07-31
+OUT_1295,Hương Thơm,10.7832474,106.751971,Restaurant,Quận Tân Bình,269 Đường số 49,0839827080,Active,Verified,Field Survey,Team_North,Tier C,2026-10-03
+OUT_1337,Hanuri,10.7944111,106.7087883,Restaurant,Quận Phú Nhuận,193 Đường số 25,0939142834,Active,Pending Verification,Sales Rep Audit,Team_Central_2,Tier B,2026-11-09
+OUT_1369,Lẩu Cua 245,10.7982237,106.6875634,Restaurant,Quận 3,317 Đường số 21,0902601279,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-05-25
+OUT_1447,Easy Life Milk Tea (Đã đóng cửa),10.7228983,106.7039823,Cafe,Quận Bình Thạnh,20 Đường số 4,0938685289,Active,Verified,Sales Rep Audit,Team_East,Tier A,2026-06-27
+OUT_1334,Minh Ký,10.7528325,106.6641757,Restaurant,Quận Bình Thạnh,44 Đường Tản Đà,0939955620,Active,Verified,Field Survey,Team_East,Tier B,2026-09-22
+OUT_1199,Dòng Biển Đức Thiên Phước (Đã đóng cửa),10.7565804,106.6809222,Cafe,Quận Phú Nhuận,269 Đường Trần Bình Trọng,0970870593,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-06-16
+OUT_1169,Mầm Vegetarian,10.7965995,106.6730691,Restaurant,Quận 3,37 Nguyễn Văn Trỗi,0902380617,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-03
+OUT_1482,HEI GARDEN,10.8193005,106.7007292,Restaurant,Quận Tân Bình,264 Đường số 11,0936292518,Active,Pending Verification,Distributor Data,Team_North,Tier B,2026-10-31
+OUT_1724,Nhà Hàng Chay Hương Sen,10.811184,106.6792709,Restaurant,Quận Bình Thạnh,79 Hồ Văn Huê,0703632123,Active,Verified,Distributor Data,Team_East,Tier B,2026-10-27
+OUT_1656,Highlands Coffee,10.7414776,106.7157948,Cafe,Thu Duc,252 Đường Lâm Văn Bền,0912347851,Active,Pending Verification,Field Survey,Team_East,Tier A,2026-06-15
+OUT_1307,Nhà Hàng Rắn Biển 6,10.7839859,106.6922466,Restaurant,Quận 3,27 Đường số 41,0833598933,Active,Pending Verification,Distributor Data,Team_Central_1,Tier C,2026-07-25
+OUT_1232,Cafe Mai Hương,10.7702328,106.6527066,Cafe,Quận 5,289 Đường số 37,0970745054,Active,Verified,Distributor Data,Team_West,Tier B,2026-07-23
+OUT_1423,Quán 003,10.7548497,106.6919486,Restaurant,Quận 5,76 Đường số 35,0986187234,Active,Verified,Field Survey,Team_West,Tier C,2026-08-08
+OUT_1050,Long,10.7576666,106.6797127,Cafe,Quận Bình Thạnh,217 Đường Nguyễn Trãi,0839087406,Active,Verified,Field Survey,Team_East,Tier C,2026-06-10
+OUT_1788,Cà Phê Sân Cỏ,10.7925804,106.749832,Cafe,Quận 10,  325 Lương Định Của ,0979826224 ,Active,Verified,Distributor Data,Team_West,Tier B,2026-08-05
+OUT_1358,869 Café,10.7527792,106.6565519,Cafe,Quận Phú Nhuận,71 Đường Nguyễn Trãi,0939127990,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-08-26
+OUT_1087,Thực Dưỡng Chay Yến Phương - 757,10.7750642,106.6820517,Restaurant,Quận 10,174 Đường số 13,0903926142,Active,Verified,Distributor Data,Team_West,Tier A,2026-10-01
+OUT_1546,Phở Việt Nam,10.771252,106.6962092,Restaurant,Thủ Đức,264 Phạm Hồng Thái,0835817246,Active,Pending Verification,Field Survey,Team_East,Tier C,2026-07-12
+OUT_1193,Mê Rau Vegetarian,10.7816224,106.6625315,Restaurant,Quận 10,224 Trường Sơn,0326420593,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-05-28
+OUT_1796,Highlands Coffee,10.8012431,106.652915,Cafe,Quận 3,  189 Đường số 11 ,0324216894 ,Active,Pending Verification,Distributor Data,Team_Central_1,Tier A,2026-09-08
+OUT_1034,Cà Phê Three O’clock,10.7553326,106.6818593,Cafe,Quận 4,48 Đường Trần Hưng Ðạo,0324019380,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-07-28
+OUT_1032,Nhậu ngon,10.7667439,106.6501344,Pub,Quận 10,47 Đường số 16,0970165712,Active,Verified,Field Survey,Team_West,Tier B,2026-06-06
+OUT_1200,Cà Phê Regina,10.778345,106.699128,Cafe,Quận 3,41 Đường số 5,0935250029,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-06-17
+OUT_1366,Nhà Hàng May And Lounge,10.7711838,106.6896281,Restaurant,Quận 3,20 Đường số 35,0703688725,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-06-20
+OUT_1487,Nhà Hàng The Fish Sauce,10.7811468,106.6994239,Restaurant,Dist 3,220 Lê Duẩn,0835267722,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-10-20
+OUT_1595,Nhà Hàng Zeus,10.7660671,106.6896212,Restaurant,Quận 3,22 Đường số 7,0320613878,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-07-23
+OUT_1569,Nhà Hàng Cơm Nhà Homemade Meals,10.7758733,106.7034298,Restaurant,Quận Tân Bình,255 Ðồng Khởi,,Active,Pending Verification,Sales Rep Audit,Team_North,Tier C,2026-07-01
+OUT_1429,Cà Phê Cocobana Tea Room & Garden,10.7427982,106.6694838,Cafe,Quận 10,14 Đường số 44,0900979251,Active,Pending Verification,Field Survey,Team_West,Tier A,2026-11-14
+OUT_1138,Quán Chay Hoàng Lan,10.8091374,106.6890004,Restaurant,quận 7,304 Nguyễn Văn Đậu,0916845775,Active,Verified,Distributor Data,Team_South,Tier B,2026-11-10
+OUT_1073,Coffee 506,10.7548667,106.6748004,Cafe,Quận 5,288 Đường Phan Văn Trị,0988996423,Active,Verified,Field Survey,Team_West,Tier C,2026-10-13
+OUT_1078,The Coffee House,10.743429,106.6301667,Cafe,Quận 4,286 Đường Bình Phú,0835099770,Active,Verified,Field Survey,Team_South,Tier A,2026-09-03
+OUT_1513,Cục Gạch Chay,10.7907933,106.6918273,Restaurant,Quận 5,130 Đường số 50,,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-06-14
+OUT_1784,Cà Phê Phố Đêm,10.823436,106.7192542,Cafe,Quận Tân Bình,  210 Đường số 45 ,0900342442 ,Active,Verified,Distributor Data,Team_North,Tier B,2026-05-30
+OUT_1787,Thiên Thiên,10.7526698,106.6642066,Restaurant,Quận 4,  71 Đường Tản Đà ,0931643347 ,Active,Verified,Field Survey,Team_South,Tier B,2026-07-15
+OUT_1276,Ngọc Vân,10.7528303,106.6724771,Restaurant,Quận 5,334 Đường Trần Hưng Ðạo,,Active,Verified,Distributor Data,Team_West,Tier B,2026-06-27
+OUT_1362,Nhà Hàng Lemongrass,10.7754055,106.7033338,Restaurant,Quận Tân Bình,52 Đường số 23,0971498643,Active,Verified,Distributor Data,Team_North,Tier C,2026-09-14
+OUT_1097,Cà Phê Sân Cỏ,10.7925804,106.749832,Cafe,Quận 10,325 Lương Định Của,0979826224,Active,Verified,Distributor Data,Team_West,Tier B,2026-08-05
+OUT_1642,Hủ tiếu nam vang Thành Đạt,10.7891169,106.6987866,Bistro,Q1,59 Đường số 18,0832928422,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-08-17
+OUT_1716,Cà Phê Bamba,10.726223,106.72105,Cafe,Dist 3,,0705136442,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-08-07
+OUT_1282,Cafe De Nam - C4 Cafe,10.778591,106.6862712,Cafe,Quận Bình Thạnh,78 Đường số 43,0975889163,Active,Verified,Field Survey,Team_East,Tier C,2026-08-07
+OUT_1394,Cơm tấm Anh Tú,10.7712618,106.6301381,Restaurant,Quận Tân Bình,189 Cây Keo,0939314386,Active,Verified,Distributor Data,Team_North,Tier C,2026-06-09
+OUT_1629,Nhà hàng Công Đoàn,10.772436,106.6911662,Restaurant,Quận Bình Thạnh,190 Cách Mạng Tháng Tám,0919508501,Active,Verified,Field Survey,Team_East,Tier B,2026-11-21
+OUT_1609,New Dehli,10.7670591,106.6908884,Restaurant,Quận 3,82 Đường số 45,0833403127,Active,Pending Verification,Distributor Data,Team_Central_1,Tier C,2026-07-11
+OUT_1706,Quán bún bò,10.7720804,106.6556936,Restaurant,Thành phố Thủ Đức,329 Đường số 2,0905696591,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-06-19
+OUT_1755,Trinh Cafe,10.7877933,106.6640498,Cafe,Quận Phú Nhuận,173 Đường số 21,0835877712,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-09-21
+OUT_1055,Em Là Nem,10.7221433,106.7040654,Restaurant,Quận 10,181 Đường số 48,0933004786,Active,Pending Verification,Distributor Data,Team_West,Tier C,2026-07-04
+OUT_1751,hey sugar,10.7837369,106.6967649,Cafe,Dist 3,88 Trần Cao Vân,0902745644,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-08-17
+OUT_1156,Cà Phê Bingsu World,10.7758815,106.689603,Cafe,Quận 5,62 Bà Huyện Thanh Quan,0909104300,Active,Verified,Field Survey,Team_West,Tier B,2026-06-05
+OUT_1433,Katinat Cộng Hòa,10.8009983,106.6606004,Cafe,Quận 4,258 Đường số 6,0907784873,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-07-12
+OUT_1098,Bombay Bites,10.7672491,106.6936396,Restaurant,Quận 5,16 Bùi Viện,0984721264,Active,Verified,Field Survey,Team_West,Tier C,2026-08-19
+OUT_1121,Phuc Long - Sky Garden,10.7324066,106.7065335,Restaurant,Quận 1,227 Đường số 26,0709155792,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-07-25
+OUT_1077,Quán Bar Bonjour de Saigon,10.7905015,106.699775,Bar,Thành phố Thủ Đức,330 Đường số 48,0906231203,Active,Verified,Distributor Data,Team_East,Tier A,2026-08-03
+OUT_1205,Cơm chay Thiện Phước,10.7841264,106.6392994,Restaurant,Quận 3,171 Đường số 48,0902959391,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-06-02
+OUT_1353,Passio,10.7531277,106.6518684,Cafe,Quận 5,110 Đường Nguyễn Trãi,0982869904,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-10-22
+OUT_1765,Nhà Hàng Lẩu và Nướng Grill Riverside,10.7939164,106.6862258,Restaurant,Quận 3,  341 Hoàng Sa ,0918707286 ,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-11-09
+OUT_1209,SA Original Tea and Coffee,10.8091059,106.7080727,Cafe,Quận Tân Bình,325 Đường số 8,,Active,Verified,Field Survey,Team_North,Tier B,2026-10-20
+OUT_1368,Cà Phê Ngẫu Nhiên,10.8353087,106.6868541,Cafe,Dist.7,173 Đường số 30,0977213865,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-10-26
+OUT_1426,Cafe AM:PM,10.7952823,106.6740024,Cafe,Quận Bình Thạnh,114 Hẻm 19 Mai Văn Ngọc,0322088147,Active,Verified,Distributor Data,Team_East,Tier B,2026-07-12
+OUT_1516,Cari Việt Ấn,10.7527781,106.6565193,Restaurant,Thành phố Thủ Đức,35 Đường Nguyễn Trãi,0328303441,Active,Verified,Field Survey,Team_East,Tier C,2026-10-21
+OUT_1085,Nhà Hàng Thanh Thìn,10.7676305,106.7000487,Restaurant,Quận Tân Bình,140 Đường số 19,0918033974,Active,Verified,Field Survey,Team_North,Tier A,2026-08-19
+OUT_1011,Eggyolk Coffee,10.7725992,106.6966088,Cafe,Quận Bình Thạnh,334 Lê Thánh Tôn,0834801624,Active,Pending Verification,Field Survey,Team_East,Tier C,2026-08-07
+OUT_1721,The Coffee House,10.778179,106.681205,Cafe,Q.1,29 Đường Cách Mạng Tháng Tám,0981651623,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-09-17
+OUT_1111,The Coffee Bean & Tea Leaf,10.7295097,106.7195269,Cafe,Q7,306 Tầng trệt,0977567982,Active,Verified,Field Survey,Team_South,Tier A,2026-06-09
+OUT_1522,BOCĀO Basque Izakaya (Đã đóng cửa),10.8029885,106.7274172,Restaurant,Quận Tân Bình,298 Nguyễn Văn Hưởng,0905682996,Active,Pending Verification,Field Survey,Team_North,Tier C,2026-06-28
+OUT_1778,Highlands Coffee,10.7747454,106.6982421,Cafe,Quận 5,  49 Đường số 36 ,0708861533 ,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-06-07
+OUT_1210,Cô Lan,10.751746,106.6695906,Restaurant,Quận 5,59 Đường Nguyễn Tri Phương,0839327104,Active,Verified,Field Survey,Team_West,Tier B,2026-10-18
+OUT_1236,Cà Phê Lãng,10.776069,106.66608,Cafe,Quận 3,290 Đường số 44,0988628902,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-10-10
+OUT_1317,Highlands Coffee,10.7983839,106.6875999,Cafe,Quận 5,146 Đường số 6,0908588770,Active,Pending Verification,Field Survey,Team_West,Tier A,2026-06-15
+OUT_1389,Cà Phê Central Nguyễn Huệ,10.7738692,106.7034139,Cafe,Quận 10,274 Đường số 3,0908562718,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-07-31
+OUT_1119,Cà Phê Tươi,10.824582,106.7141352,Cafe,Quận Phú Nhuận,42 Đường số 8,0919182553,Active,Verified,Sales Rep Audit,Team_Central_2,Tier A,2026-10-31
+OUT_1720,Cà Phê Lộc Vừng,10.7968052,106.686666,Cafe,Thành phố Thủ Đức,258 Đường số 7,0930700159,Active,Pending Verification,Distributor Data,Team_East,Tier B,2026-08-16
+OUT_1211,Cafe Sumo,10.7999079,106.6284256,Cafe,Thành phố Thủ Đức,272 Nguyễn Cửu Đàm,0905411526,Active,Pending Verification,Distributor Data,Team_East,Tier C,2026-11-18
+OUT_1255,Nhà Hàng Sky Garden BBQ,10.7739421,106.6479596,Restaurant,Quận 4,38 Đường Lạc Long Quân,0700223569,Active,Verified,Field Survey,Team_South,Tier B,2026-08-03
+OUT_1592,Hiên Nhà Coffe,10.7970307,106.6202796,Cafe,Quận 7,228 Lê Đình Thám,0915717320,Active,Verified,Distributor Data,Team_South,Tier B,2026-05-28
+OUT_1030,Phố Việt,10.7553033,106.6788805,Restaurant,Quận 4,243 Đường Lê Hồng Phong,,Active,Verified,Field Survey,Team_South,Tier C,2026-11-01
+OUT_1267,Qúan Chay Liên Yến,10.7823261,106.6796323,Restaurant,Q1,305 Đường số 43,0836184723,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-06-23
+OUT_1657,Nhà Hàng Kichi - Kichi,10.7978158,106.689146,Restaurant,Quận 1,103 Đường số 4,0701064628,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-04
+OUT_1663,Buffet Chay Omhoon,10.8000008,106.6525802,Restaurant,Quận 1,228 Đường số 6,0987158904,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-08-27
+OUT_1297,Quán Bún Đậu Nhà Tôi,10.7603231,106.6689315,Restaurant,Quận 10,,0916995866,Active,Verified,Distributor Data,Team_West,Tier C,2026-08-25
+OUT_1082,Phúc Long,10.7897734,106.6893777,Cafe,Quận Phú Nhuận,137 Đường số 49,0701567933,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-08-22
+OUT_1689,Cà Phê Tutti Frutti Frozen Yogurt,10.7719303,106.6976976,Cafe,Quận 4,189 Đường số 10,0701367499,Active,Verified,Distributor Data,Team_South,Tier C,2026-10-04
+OUT_1303,Cà Phê Phố Đêm,10.823436,106.7192542,Cafe,Quận Tân Bình,210 Đường số 45,0900342442,Active,Verified,Distributor Data,Team_North,Tier B,2026-05-30
+OUT_1507,Phuc Long,10.7733575,106.705484,Cafe,Quận 7,200 Đường số 43,0910162249,Active,Pending Verification,Sales Rep Audit,Team_South,Tier B,2026-08-05
+OUT_1759,Hanuri,10.7944111,106.7087883,Restaurant,Quận Phú Nhuận,  193 Đường số 25 ,0939142834 ,Active,Pending Verification,Sales Rep Audit,Team_Central_2,Tier B,2026-11-09
+OUT_1315,Thai Express,10.7707915,106.6696728,Restaurant,Quận 3,348 Đường số 36,0901573993,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-07-24
+OUT_1645,Bò Né,10.7933441,106.7029022,Restaurant,Quận 10,256 Đường số 24,0322578284,Active,Verified,Field Survey,Team_West,Tier A,2026-10-19
+OUT_1410,Cà Phê Teaspoon,10.7793691,106.702413,Cafe,Q.1,329 Đường số 45,0939979688,Active,Pending Verification,Field Survey,Team_Central_1,Tier C,2026-09-14
+OUT_1212,전주옥,10.7329873,106.7072123,Restaurant,Quận 7,262 Phan Khiêm Ích,0931815997,Active,Verified,Distributor Data,Team_South,Tier B,2026-10-04
+OUT_1533,Nhà Hàng Thuần Chay Quán Âm,10.7939097,106.6867967,Restaurant,Quận 5,324 Đường số 43,0324249321,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-09-23
+OUT_1484,Hà Ký Mì Gia,10.7275094,106.7080321,Restaurant,Quận 5,124 Phạm Thái Bường,0987423122,Active,Verified,Distributor Data,Team_West,Tier A,2026-07-07
+OUT_1219,Nhà Hàng Thai Street,10.8045082,106.7371682,Restaurant,Quận 1,53 Trần Ngọc Diện,0702565270,Active,Pending Verification,Distributor Data,Team_Central_1,Tier A,2026-07-21
+OUT_1008,Cơm Gà,10.7941085,106.7042788,Restaurant,Quận Tân Bình,51 Đường số 2,0329532787,Active,Verified,Sales Rep Audit,Team_North,Tier C,2026-07-10
+OUT_1465,Nhà Hàng Don Chicken,10.7864194,106.6658667,Restaurant,Quận 3,148 Đường Cách Mạng Tháng Tám,0706553559,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-10-15
+OUT_1102,TNT Coffee,10.7336894,106.7086744,Cafe,Quận 4,193 Đường Số 2,0329375265,Active,Verified,Distributor Data,Team_South,Tier B,2026-06-13
+OUT_1327,Cà Phê Chợ Đồ Cổ,10.8199135,106.6987697,Cafe,Quận Tân Bình,180 Hẻm 311 Nơ Trang Long,0908821009,Active,Verified,Distributor Data,Team_North,Tier B,2026-10-12
+OUT_1653,Cơm Tấm Phúc Lộc Thọ (Đã đóng cửa),10.8321683,106.682773,Restaurant,Q.1,110 Lê Đức Thọ,0326265650,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-10-14
+OUT_1538,Cơm gà Hoàng Ký,10.7558851,106.6764765,Restaurant,Quận 5,19 Đường Huỳnh Mẫn Đạt,0917477332,Active,Verified,Field Survey,Team_West,Tier B,2026-06-28
+OUT_1641,Cafe Bạc Xỉu Lắc,10.7988807,106.6268127,Cafe,Quận Phú Nhuận,128 Nguyễn Quý Anh,0977540254,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-08-27
+OUT_1003,Cửa Hàng Đồ Chay Phước Duyên,10.7549721,106.6839695,Restaurant,Dist.7,151 Đường số 37,0976471027,Active,Verified,Distributor Data,Team_South,Tier C,2026-06-05
+OUT_1739,Nhà Hàng Biển Dương 6,10.7760138,106.6845491,Restaurant,Quận Bình Thạnh,65 Đường số 32,0930696942,Active,Verified,Field Survey,Team_East,Tier B,2026-08-30
+OUT_1777,Nhà Hàng The Lunch Lady,10.7915811,106.7042222,Restaurant,Quận Tân Bình,  80 Đường số 29 ,0911729806 ,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-08-23
+OUT_1520,Bánh Canh Ghẹ Hẻm Mát,10.7697455,106.6916041,Restaurant,Quận Phú Nhuận,322 Hẻm 89 Nguyễn Trãi,0327608495,Active,Pending Verification,Field Survey,Team_Central_2,Tier A,2026-07-30
+OUT_1590,Chè Ngọc Nhi,10.7896715,106.6900538,Cafe,Quận 5,219 Nguyễn Hữu Cầu,0901585174,Active,Verified,Field Survey,Team_West,Tier B,2026-07-09
+OUT_1799,Quán cô Thì,10.7545832,106.6776525,Restaurant,Quận 7,  93 Đường Trần Hưng Ðạo ,0830021765 ,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-10-28
+OUT_1745,Lẩu Rau Nấm Chay Mê Rau,10.7688755,106.6847304,Restaurant,Quận Phú Nhuận,258 Đường số 39,0907256366,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-10-27
+OUT_1514,Quán Cơm 98,10.7494016,106.7048936,Restaurant,Quận Bình Thạnh,9 Đường Lê Văn Lương,0939343010,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-07-15
+OUT_1671,Nhà Hàng Vỹ Dạ,10.7749047,106.6980099,Restaurant,Bình Thạnh,278 Đường số 22,0831120754,Active,Pending Verification,Field Survey,Team_East,Tier A,2026-10-10
+OUT_1265,Pizza Hut,10.776985,106.690347,Restaurant,Quận 3,47 Trương Định,0931506489,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-07-20
+OUT_1616,The Coffee House,10.794449,106.6680251,Cafe,Quận 1,65 Lê Văn Sỹ,0979726527,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-09-07
+OUT_1330,Bánh Cuốn Nóng Hào Hoa,10.7730605,106.6963254,Restaurant,Quận 5,340 Hẻm 177 Lý Tự Trọng,0971290878,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-10-27
+OUT_1343,Amavi Kom & Vegan,10.7334461,106.7093169,Restaurant,Thành phố Thủ Đức,48 Nội Khu Hưng Gia 1,0320373145,Active,Verified,Field Survey,Team_East,Tier C,2026-10-12
+OUT_1395,Nhà Hàng La Crêperie,10.8069002,106.7298772,Restaurant,Quận Bình Thạnh,348 Đường số 43,,Active,Verified,Field Survey,Team_East,Tier C,2026-08-20
+OUT_1080,Gia Hùng,10.7941947,106.7039132,Restaurant,Quận 5,312 Đường số 47,0980862118,Active,Verified,Field Survey,Team_West,Tier B,2026-06-20
+OUT_1149,bún đậu cầu gõ,10.7677691,106.6886656,Restaurant,Quận 4,105 Đường số 28,0909275326,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-08-23
+OUT_1351,Cà Phê Okinawa,10.7840335,106.6802568,Cafe,Quận 10,159 Hoàng Sa,0936030299,Active,Verified,Distributor Data,Team_West,Tier B,2026-06-16
+OUT_1383,Bếp Bà Mập,10.7547318,106.6924365,Restaurant,Quận 1,"122 M2-002 Chung cư Số 1 Tôn Thất Thuyết, Phường 1, Quận 4",,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-06-13
+OUT_1441,D'Nyonya,10.7764578,106.7049642,Restaurant,Quận 10,164 Đông Du,0838994053,Active,Verified,Field Survey,Team_West,Tier C,2026-11-06
+OUT_1310,Nhà Hàng Huo Cuo,10.7336048,106.7065132,Restaurant,Dist.7,172 Phạm Văn Nghị,0980572025,Active,Verified,Field Survey,Team_South,Tier C,2026-08-14
+OUT_1708,MÌ Ý A.HOÀI - Do Chính A.HOÀI Đảm Trách,10.7607761,106.690652,Restaurant,Quận 7,231 Đường số 48,0985637183,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-08-11
+OUT_1134,Cà Phê NIC,10.7783538,106.6723028,Cafe,Quận Tân Bình,57 Hòa Hưng,0328498254,Active,Pending Verification,Field Survey,Team_North,Tier B,2026-06-29
+OUT_1382,Sugar free black Sesame,10.768247,106.6987072,Cafe,Quận 7,347 Đường số 46,0904341651,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-10-10
+OUT_1214,Nhà Hàng - Cà Phê Lâm,10.7659753,106.6910786,Restaurant,Q1,179 Đường số 26,0323368844,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-11-17
+OUT_1660,Kim,10.7533589,106.6638558,Cafe,Quận 4,38 Đường Nguyễn Trãi,0970024471,Active,Verified,Distributor Data,Team_South,Tier C,2026-08-14
+OUT_1056,Heli Vegetarian Bistro,10.7981376,106.689783,Restaurant,Thành phố Thủ Đức,54 Hoa Cúc,0703375243,Active,Pending Verification,Sales Rep Audit,Team_East,Tier C,2026-06-20
+OUT_1737,Nhà Hàng Au Tresor,10.772698,106.7048299,Restaurant,Quận Phú Nhuận,283 Đường số 44,0705266930,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-11-06
+OUT_1621,Nhà Hàng Bulgogi BBQ Matchandeul,10.801575,106.7378091,Restaurant,Quận 1,186 Đường số 16,0834063356,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-24
+OUT_1583,Thiền Trúc,10.793772,106.6901861,Restaurant,Quận Phú Nhuận,41 Đường số 35,0982717396,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-07-15
+OUT_1674,Bánh Canh Cá Lóc Bún Riêu Cô Ba Miền Tây,10.7892886,106.7532915,Restaurant,Q7,81 Thân Văn Nhiếp,0972161107,Active,Pending Verification,Distributor Data,Team_South,Tier C,2026-06-13
+OUT_1528,Thi Thi,10.75681,106.6775852,Restaurant,Thành phố Thủ Đức,174 Đường Nguyễn Trãi,0836810409,Active,Verified,Field Survey,Team_East,Tier A,2026-06-30
+OUT_1197,Hủ Tiếu Sườn Né Đào,10.7718998,106.6921906,Restaurant,Quận Phú Nhuận,302 Hẻm 6 Cách Mạng Tháng Tám,0905992937,Active,Pending Verification,Distributor Data,Team_Central_2,Tier A,2026-07-20
+OUT_1714,Cà Phê [a],10.790421,106.69669,Cafe,Thành phố Thủ Đức,283 Huỳnh Khương Ninh,0977489690,Active,Verified,Field Survey,Team_East,Tier C,2026-08-02
+OUT_1690,Tiệm Chay Thong Thả,10.7864225,106.6761066,Restaurant,Quận 5,240 Đường số 9,0986579678,Active,Verified,Field Survey,Team_West,Tier A,2026-07-23
+OUT_1061,The Coffee House,10.7809412,106.7064002,Cafe,Quận 7,337 Đường số 18,0982836440,Active,Verified,Field Survey,Team_South,Tier B,2026-10-07
+OUT_1577,Starbucks,10.7281893,106.7120543,Cafe,Quận Tân Bình,,0900106181,Active,Verified,Field Survey,Team_North,Tier B,2026-08-01
+OUT_1632,Mr.Craft - Craft Beer & Wine,10.7320984,106.7095804,Pub,Quận Tân Bình,40 Cao Triều Phát,0839335548,Active,Verified,Sales Rep Audit,Team_North,Tier A,2026-08-24
+OUT_1432,Cộng Cà Phê (Đã đóng cửa),10.7707042,106.6879095,Cafe,Quận 7,203 Sương Nguyệt Anh,0327306524,Active,Verified,Distributor Data,Team_South,Tier A,2026-11-19
+OUT_1604,Phở Hồng,10.7648752,106.7051651,Restaurant,Quận 4,327 Đường số 15,0910021946,Active,Verified,Field Survey,Team_South,Tier B,2026-10-22
+OUT_1443,Nhà Hàng Salima Halal,10.7720393,106.6973647,Tea House,Quận 5,333 Đường số 20,0705094801,Active,Verified,Field Survey,Team_West,Tier C,2026-11-12
+OUT_1437,Pasteur Street Brewing Co.,10.7751824,106.7009047,Pub,Quận Phú Nhuận,42 Đường số 41,0329351863,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-09-02
+OUT_1248,Sushi Hokkaido Sachi - Pasteur,10.7784255,106.6986185,Restaurant,Quận 3,324 Đường số 12,0705207446,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-06-29
+OUT_1587,Cà Phê Snob (Đã đóng cửa),10.7666766,106.6944217,Cafe,Quận 7,157 Đường Trần Hưng Ðạo,0982569087,Active,Verified,Field Survey,Team_South,Tier C,2026-10-19
+OUT_1570,À La Main,10.7252921,106.7098322,Cafe,Quận 7,189 Đường Đặng Đức Thuật,0937663723,Active,Verified,Field Survey,Team_South,Tier B,2026-07-12
+OUT_1091,Bella,10.7550353,106.6753661,Cafe,Quận 10,74 Đường Phan Văn Trị,0706296194,Active,Verified,Field Survey,Team_West,Tier A,2026-07-23
+OUT_1651,Nhà Hàng Chay An Lạc,10.7687422,106.6941956,Restaurant,TP Thủ Đức,134 Đường Phạm Ngũ Lão,0983018718,Active,Verified,Field Survey,Team_East,Tier C,2026-06-04
+OUT_1182,The Coffee House,10.8036583,106.7327832,Cafe,Quận 4,214 Đường số 45,0931356804,Active,Verified,Field Survey,Team_South,Tier C,2026-08-02
+OUT_1791,Quán ốc CK,10.7555088,106.6767643,Restaurant,Quận 5,  152 Đường Phan Văn Trị ,0987072006 ,Active,Verified,Field Survey,Team_West,Tier B,2026-07-27
+OUT_1555,Cơm Chay,10.7849367,106.6700427,Restaurant,Quận 3,183 Hẻm 444 Đường Cách Mạng Tháng Tám,0982201027,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier A,2026-11-01
+OUT_1291,nhỏ kafé,10.7475739,106.6335405,Cafe,Quận 7,21 Đường số 49,0831130554,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-08-02
+OUT_1159,Hủ Tiếu Chay Sa Đéc,10.7864481,106.6257407,Restaurant,Quận 10,221 Đường số 41,0326914630,Active,Verified,Field Survey,Team_West,Tier B,2026-10-06
+OUT_1070,Quán Pub Urban Basement (Đã đóng cửa),10.7738291,106.6969455,Pub,Quận 4,294 Đường số 48,0324678544,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-09-10
+OUT_1518,UniVini,10.8030306,106.6889613,Cafe,Quận Phú Nhuận,124 Hẻm 55 Phan Đăng Lưu,0326990235,Active,Verified,Sales Rep Audit,Team_Central_2,Tier A,2026-06-08
+OUT_1132,hà Hàng Tori Soba Mutahiro,10.7793342,106.7054839,Restaurant,Quận Tân Bình,177 Đường số 6,0321713395,Active,Verified,Field Survey,Team_North,Tier B,2026-08-04
+OUT_1045,Pizza Hut,10.7770084,106.6811613,Restaurant,Quận 7,344 3 Tháng 2,0839568783,Active,Pending Verification,Field Survey,Team_South,Tier C,2026-08-30
+OUT_1071,Dangdo Cafe,10.7758337,106.75043,Cafe,Quận 10,116 Đường số 35,0328771753,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-06-09
+OUT_1692,U Coffee,10.7949956,106.6411388,Cafe,Quận Phú Nhuận,67 Bàu Cát 1,,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-11-17
+OUT_1356,Amavi Kom & Vegan,10.8066811,106.7309352,Restaurant,quận 7,99 Đường số 43,0935799136,Active,Verified,Distributor Data,Team_South,Tier B,2026-07-20
+OUT_1445,Kafka Cafe & Prem Restaurant,10.7787456,106.6903529,Cafe,Quận 1,75 Đường số 3,0703383928,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier C,2026-06-10
+OUT_1762,Nhà hàng Bình Xuyên,10.731559,106.6727744,Restaurant,Quận 3,  145 Phạm Hùng ,0985061593 ,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-10-01
+OUT_1136,Cà Phê 1 USD,10.7635051,106.6869405,Cafe,Quận 3,348 Đường số 49,0982232536,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-07-03
+OUT_1083,Cơm Sinh Viên,10.7958447,106.7070856,Restaurant,Quận Bình Thạnh,15 Đường Nguyễn Cửu Vân,0981016668,Active,Verified,Field Survey,Team_East,Tier B,2026-06-04
+OUT_1166,Bún bò Huế Vinh Thanh,10.7540798,106.6769985,Restaurant,Quận 10,,0900030756,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-09-02
+OUT_1165,Thức Coffee,10.8272001,106.6783056,Cafe,Thành phố Thủ Đức,257 Quang Trung,0935241913,Active,Verified,Field Survey,Team_East,Tier C,2026-09-06
+OUT_1029,SB-Tacos,10.7745351,106.6901855,Restaurant,Q.1,79 Đường số 32,0934041574,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-11-14
+OUT_1449,Ganesh,10.7302076,106.7078529,Restaurant,Dist.7,242 Đường Số 6,0329398368,Active,Verified,Field Survey,Team_South,Tier B,2026-06-13
+OUT_1194,Bánh Mì Chay,10.7821804,106.6673962,Restaurant,Quận 7,55 Đường số 35,0904078593,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-08-10
+OUT_1240,Cà Phê Rita Võ,10.7603644,106.6833383,Cafe,Quận Bình Thạnh,166 Đường số 49,,Active,Verified,Field Survey,Team_East,Tier A,2026-07-20
+OUT_1725,Te Amo,10.7546647,106.6741687,Cafe,Quận 10,156 Đường Phan Văn Trị,0987649078,Active,Verified,Distributor Data,Team_West,Tier C,2026-07-06
+OUT_1731,Cửa Hàng TeeKa Milktea (Đã đóng cửa),10.7793165,106.6672354,Restaurant,Quận Bình Thạnh,266 Đường Tô Hiến Thành,0981776561,Active,Verified,Field Survey,Team_East,Tier B,2026-10-30
+OUT_1137,The Coffee House,10.758729,106.7005406,Cafe,Quận Tân Bình,348 Đường số 27,0832946671,Active,Verified,Distributor Data,Team_North,Tier C,2026-11-02
+OUT_1665,Ghiền Lẩu,10.8313581,106.686435,Restaurant,Quận Bình Thạnh,350 Dương Quảng Hàm,0930456504,Active,Verified,Field Survey,Team_East,Tier B,2026-11-10
+OUT_1312,Cà Kê Café,10.8028144,106.7148433,Cafe,Quận 3,169 Đường số 20,,Active,Verified,Field Survey,Team_Central_1,Tier A,2026-06-02
+OUT_1141,Nhà Hàng Halal Sai Gon (Đã đóng cửa),10.7760297,106.7047293,Restaurant,Quận 3,342 Đông Du,0939750017,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier B,2026-07-14
+OUT_1474,Chay 365,10.7504379,106.7359778,Restaurant,Quận Bình Thạnh,235 Đường  Bùi Văn Ba,0708157981,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-06-08
+OUT_1007,Cư Bao Coffee,10.8006369,106.6499751,Cafe,Q3,221 Lê Trung Nghĩa,0910469632,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-11-20
+OUT_1729,Highlands Coffee,10.7796762,106.6924435,Cafe,Quận 10,116 Đường số 20,0977606441,Active,Verified,Field Survey,Team_West,Tier B,2026-10-06
+OUT_1756,Café 30/4,10.7765828,106.696011,Cafe,Quận 5,289 Đường số 25,0915134228,Active,Verified,Distributor Data,Team_West,Tier C,2026-06-22
+OUT_1074,Lộ Thiên Quán,10.8120727,106.6904117,Restaurant,Quận 7,319 Đường số 12,0323693785,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-10-22
+OUT_1560,Hatvala - Tea Shop,10.7941163,106.6961594,Cafe,Quận Phú Nhuận,64 Lê Văn Duyệt,0835197128,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-07-23
+OUT_1300,Bánh Cuốn Cao Bằng,10.7984413,106.6861909,Restaurant,Thành phố Thủ Đức,191 Cù Lao,0973945228,Active,Verified,Field Survey,Team_East,Tier B,2026-07-15
+OUT_1146,Quán Chay 103,10.7689793,106.6994925,Restaurant,Quận 1,307 Đường số 29,,Active,Pending Verification,Field Survey,Team_Central_1,Tier A,2026-06-05
+OUT_1293,Cà Phê Muahanoi,10.8140569,106.708903,Cafe,Quận 1,225 Nguyễn Xí,0989331637,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-10-11
+OUT_1235,Nhà Hàng Kichi Kichi,10.7804743,106.691692,Restaurant,Quận 5,349 Đường số 49,0707850821,Active,Verified,Field Survey,Team_West,Tier C,2026-10-23
+OUT_1221,Quán Game On Sports Pub,10.7728977,106.7033292,Bar,Quận 3,132 Hồ Tùng Mậu,0931158693,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-10-15
+OUT_1451,Cà Phê Anh Roastery,10.7829754,106.6934854,Cafe,Quận 3,241 Đường số 28,0908240433,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-07-11
+OUT_1381,Mía Em,10.7531104,106.6509046,Cafe,Quận Phú Nhuận,187 Đường Nguyễn Trãi,0981633565,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-10-26
+OUT_1133,Napoly,10.7483028,106.6574913,Cafe,Dist.7,221 Phùng Hưng,0702923309,Active,Verified,Field Survey,Team_South,Tier A,2026-09-07
+OUT_1376,Quán Song Long,10.7620777,106.6325417,Restaurant,Quận 5,320 Lũy Bán Bích,0988955439,Active,Verified,Field Survey,Team_West,Tier B,2026-06-18
+OUT_1405,Cafe Cô Khuê,10.7891888,106.753231,Cafe,Thành phố Thủ Đức,,0913261117,Active,Verified,Field Survey,Team_East,Tier C,2026-08-26
+OUT_1523,Cơm tấm BiBi,10.755631,106.6785564,Restaurant,Quận Phú Nhuận,,0939145046,Active,Verified,Sales Rep Audit,Team_Central_2,Tier A,2026-11-20
+OUT_1750,Quán Ăn DimSum,10.7896434,106.7041204,Restaurant,Quận 10,79 Đường số 40,0915862415,Active,Verified,Distributor Data,Team_West,Tier B,2026-09-16
+OUT_1427,Gangnam BBQ House,10.7329877,106.708305,Restaurant,Quận 1,231 Phan Khiêm Ích,0983503136,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-05-31
+OUT_1042,Rảnh Qua Chơi,10.7551062,106.675499,Cafe,Quận 10,288 Đường Phan Văn Trị,0989904530,Active,Verified,Field Survey,Team_West,Tier B,2026-06-07
+OUT_1496,La Fontaine French Bistrot,10.8151095,106.7272926,Restaurant,Quận 10,343 Đường Nguyễn Văn Hưởng,,Active,Verified,Field Survey,Team_West,Tier B,2026-07-11
+OUT_1109,Trung Nguyên Coffee,10.7903661,106.6973349,Cafe,Thành phố Thủ Đức,167 Đường số 37,0939096561,Active,Verified,Field Survey,Team_East,Tier B,2026-06-01
+OUT_1345,Katinat - Đồng Khởi,10.7746804,106.7043718,Cafe,Quận 3,344 Đường số 50,0900518449,Active,Verified,Field Survey,Team_Central_1,Tier A,2026-07-16
+OUT_1057,Cà Phê HD,10.7735952,106.6715209,Unknown,Quận 5,296 Đường số 22,0910690331,Active,Verified,Field Survey,Team_West,Tier A,2026-08-16
+OUT_1260,Chagee,10.7728586,106.6952438,Cafe,Quận 5,30 Đường số 7,0905830033,Active,Verified,Field Survey,Team_West,Tier C,2026-07-03
+OUT_1480,Quán Thi Bar,10.7674743,106.6940071,Bar,Quận Bình Thạnh,9 Đường Ðề Thám,0936495782,Active,Verified,Distributor Data,Team_East,Tier B,2026-10-02
+OUT_1626,Quán Pub Universal,10.7670667,106.6931011,Street Food,Quận 10,79 Bùi Viện,0937990772,Active,Verified,Field Survey,Team_West,Tier B,2026-09-27
+OUT_1228,Mì Quảng Hai Chị Em,10.7718079,106.6654569,Restaurant,Quận 4,91 Thành Thái,0916229991,Active,Verified,Field Survey,Team_South,Tier A,2026-10-30
+OUT_1213,Cà Phê Tùng,10.7695426,106.6735634,Cafe,Quận 5,100 Đường số 45,0906296201,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-10-24
+OUT_1594,Qúan Chay Thiên Đức,10.7917657,106.6656704,Restaurant,Quận Phú Nhuận,229 Đường số 24,0987870050,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-07-28
+OUT_1333,Nhà Hàng Crazy Buffalo,10.767375,106.6941425,Restaurant,Quận 7,305 Đường số 16,0975775949,Active,Verified,Field Survey,Team_South,Tier C,2026-09-05
+OUT_1025,The Bunny,10.7757731,106.7507657,Restaurant,Quận 5,161 Đường số 6,0705278585,Active,Verified,Field Survey,Team_West,Tier B,2026-06-23
+OUT_1781,Phổ Đình Uraetei Yakiniku,10.7573304,106.6862853,Restaurant,Quận 1,  114 Trần Hưng Ðạo ,0704422096 ,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier C,2026-05-29
+OUT_1352,Cà Phê Ban Mê,10.7861288,106.6715369,Cafe,Quận 3,93 Đường số 47,0932809202,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier C,2026-09-24
+OUT_1357,Quán Mì Nấm,10.7966415,106.6675088,Restaurant,Quận 4,116 Tân Canh,0702103886,Active,Verified,Field Survey,Team_South,Tier B,2026-09-16
+OUT_1052,Ego Eimi,10.7523835,106.6640922,Cafe,Quận Tân Bình,148 Đường Trần Hưng Ðạo,0918017046,Active,Verified,Distributor Data,Team_North,Tier C,2026-08-31
+OUT_1332,Hai Lúa,10.7538391,106.6642327,Restaurant,Quận 5,67 Đường Nguyễn Trãi,0325231491,Active,Verified,Distributor Data,Team_West,Tier A,2026-07-18
+OUT_1734,Bún Bò Nhung,10.7880997,106.6565283,Restaurant,Quận Bình Thạnh,129 Đường số 31,0703459112,Active,Pending Verification,Distributor Data,Team_East,Tier B,2026-08-09
+OUT_1630,Nhà hàng Maison de Charme,10.7468774,106.7011838,Restaurant,Quận 7,191 Hẻm 793/57 Trần Xuân Soạn,0705790552,Active,Verified,Field Survey,Team_South,Tier B,2026-10-21
+OUT_1502,Sushi Hokkaido Sachi - Nguyễn Trãi,10.7692705,106.690576,Restaurant,Quận Bình Thạnh,279 Đường số 37,0970940777,Active,Verified,Distributor Data,Team_East,Tier B,2026-07-06
+OUT_1335,Quán Cơm Tâm Mộc,10.7745395,106.6978834,Restaurant,Quận 4,159 Đường số 36,0323364525,Active,Verified,Field Survey,Team_South,Tier C,2026-09-29
+OUT_1286,Raku Ramen Bar,10.8029796,106.7365072,Restaurant,Quận Bình Thạnh,176 Đường Nguyễn Duy Hiệu,0703177971,Active,Verified,Field Survey,Team_East,Tier C,2026-06-15
+OUT_1019,Cà Phê Betta Fish,10.7651367,106.6993512,Cafe,Thủ Đức,233 Võ Văn Kiệt,0839470551,Active,Verified,Field Survey,Team_East,Tier C,2026-09-10
+OUT_1585,Highlands Coffee,10.784071,106.699901,Cafe,Quận 7,339 Đường số 30,0917410119,Active,Verified,Distributor Data,Team_South,Tier B,2026-07-20
+OUT_1749,Nhà Hàng Chay Saigon 3,10.7763157,106.6866707,Restaurant,Q7,298 Võ Văn Tần,0934287572,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-08-31
+OUT_1084,Quán cô Thì,10.7545832,106.6776525,Restaurant,Quận 7,93 Đường Trần Hưng Ðạo,0830021765,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-10-28
+OUT_1062,R Coffee (Đã đóng cửa),10.7974925,106.6921244,Cafe,Quận 3,,0936870568,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-21
+OUT_1463,Cửa Hàng Pizza 4P's,10.8026438,106.7308607,Restaurant,Q7,,0836938983,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-07-09
+OUT_1292,Cà Phê Thống Nhất,10.7665978,106.6796218,Cafe,Quận 5,127 Đường số 32,0321027261,Active,Verified,Field Survey,Team_West,Tier A,2026-11-16
+OUT_1448,Phương Quỳnh,10.7557568,106.678093,Restaurant,Quận 10,147 Đường Phan Văn Trị,0835585566,Active,Verified,Distributor Data,Team_West,Tier B,2026-11-07
+OUT_1183,Ốc Vân,10.7718561,106.6971119,Restaurant,Quận Phú Nhuận,149 Đường số 30,0982067883,Active,Pending Verification,Sales Rep Audit,Team_Central_2,Tier A,2026-07-08
+OUT_1550,불막열삼,10.7311335,106.7079336,Restaurant,Quận 7,130 Lê Văn Thiêm,0989465190,Active,Verified,Distributor Data,Team_South,Tier C,2026-07-28
+OUT_1501,Coffee 182 Cỏ Hồng,10.7977229,106.6749949,Cafe,Quận 5,270 Đường số 23,0704474212,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-11-14
+OUT_1224,Nhà Hàng Mujo,10.796233,106.705584,Restaurant,quận 7,309 Đường số 48,0931722332,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-08-02
+OUT_1425,A Taste of Saigon,10.773828,106.7021715,Restaurant,Quận 4,47 Tôn Thất Thiệp,0977183764,Active,Verified,Field Survey,Team_South,Tier C,2026-07-27
+OUT_1468,Cà Phê Hog's Breath,10.7718499,106.7048379,Cafe,Quận 10,63 Đường số 38,0903924051,Active,Pending Verification,Sales Rep Audit,Team_West,Tier C,2026-07-30
+OUT_1320,Cà Phê The Fig (Đã đóng cửa),10.797106,106.676753,Cafe,Quận 1,309 Đường số 30,0701207501,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-05-29
+OUT_1329,Chè Sim,10.775883,106.7508499,Restaurant,Quận 7,336 Đường số 18,0708222394,Active,Verified,Field Survey,Team_South,Tier C,2026-07-19
+OUT_1444,LOWKEY COFFEE LC,10.7722402,106.6927673,Cafe,Quận 5,172 Nguyễn Du,0981381138,Active,Verified,Field Survey,Team_West,Tier A,2026-06-05
+OUT_1494,Nhà Hàng Chay Hikari,10.7750442,106.6645467,Restaurant,Quận 7,,0704472649,Active,Verified,Field Survey,Team_South,Tier B,2026-07-03
+OUT_1177,Nhà Hàng Royal Saigon,10.7658624,106.6909327,Restaurant,Quận 3,295 Đường Bùi Viện,0906234456,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-11-01
+OUT_1677,Cà Phê Bike Việt Nam,10.800023,106.7227392,Cafe,Quận 1,186 Ung Văn Khiêm,0919393250,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-09
+OUT_1364,Phở Hải (Đã đóng cửa),10.7943259,106.6911917,Restaurant,Quận Tân Bình,277 Đường số 36,0975651269,Active,Verified,Distributor Data,Team_North,Tier A,2026-05-29
+OUT_1164,bánh cuốn chợ chiều,10.7827131,106.7586179,Restaurant,Quận 1,118 Đường Nguyễn Thị Đinh,0917785079,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-05-25
+OUT_1249,Quán dê Đồng Cỏ (Đã đóng cửa),10.7869989,106.7266449,Restaurant,Quận 5,156 Đường số 38,0706099353,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-08-13
+OUT_1519,Quán Chay Nhà Tôi,10.8204243,106.63642,Restaurant,Quận Phú Nhuận,337 Đường số 19,0327702727,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-10-21
+OUT_1711,Nhà Hàng Nhật Phương,10.7901736,106.6863392,Street Food,Quận Bình Thạnh,265 Lý Chính Thắng,0836351484,Active,Verified,Distributor Data,Team_East,Tier C,2026-07-19
+OUT_1075,An An,10.7538797,106.666867,Restaurant,Dist 3,315 Đường Nguyễn Trãi,0987772522,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-09-06
+OUT_1644,Coffee Thúy Vi,10.7600528,106.6734084,Cafe,Quận 5,96 Hùng Vương,0834523805,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-06-19
+OUT_1406,YEN Sushi & Sake Pub,10.8036114,106.7329637,Restaurant,Quận Tân Bình,310 Xuân Thuỷ,0900681149,Active,Pending Verification,Sales Rep Audit,Team_North,Tier A,2026-09-09
+OUT_1105,Nhà Hàng Chay Yukikitchen,10.7935352,106.6897081,Unknown,Quận 5,175 Đường số 49,0907374167,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-11-11
+OUT_1115,Nhà Hàng Chay Lá Bồ Đề,10.7994051,106.6861389,Restaurant,Quận 5,81 Đường số 12,0901051238,Active,Verified,Distributor Data,Team_West,Tier B,2026-07-10
+OUT_1301,Sao Cũng Được Coffee,10.8195719,106.6863754,Cafe,Quận Phú Nhuận,145 Đường số 19,0321587996,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-09-26
+OUT_1093,Cà Phê City House,10.8241386,106.688439,Cafe,Quận 7,337 Đường số 1,0325110475,Active,Verified,Distributor Data,Team_South,Tier B,2026-06-30
+OUT_1412,Cà Phê Family Garden,10.8282095,106.6860294,Cafe,Quận 10,191 Đường Phan Văn Trị,0326424008,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-08-07
+OUT_1090,Legend Coffee,10.7767726,106.6983083,Cafe,Dist. 1,93 Nguyễn Du,0705047735,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-08-14
+OUT_1529,Chiếc mơ,10.8309503,106.6883009,Cafe,Quận 10,330 Đường số 44,0915701840,Active,Verified,Field Survey,Team_West,Tier B,2026-06-14
+OUT_1735,SBS GI,10.7842056,106.6962451,Restaurant,Quận 3,101 Đường Hai Bà Trưng,0978296577,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-01
+OUT_1744,Bán Cà Phê Mang Đi,10.8295357,106.7222302,Cafe,Quận Tân Bình,48 Đường số 21,0979735971,Active,Verified,Distributor Data,Team_North,Tier C,2026-08-14
+OUT_1576,Hồ Lô Vàng,10.7519261,106.6621725,Cafe,Thành phố Thủ Đức,221 Đường Trần Hưng Ðạo,0833938525,Active,Verified,Sales Rep Audit,Team_East,Tier C,2026-08-05
+OUT_1498,Nhà Hàng Chay Nấm Thiên Đàng,10.742641,106.7039656,Restaurant,Quận 7,269 Đường số 16,0322111751,Active,Verified,Field Survey,Team_South,Tier A,2026-06-12
+OUT_1495,Cơm Chay Ngọc Ý,10.7965515,106.7030517,Restaurant,Quận Bình Thạnh,341 Hẻm 117 Điện Biên Phủ,0908277181,Active,Pending Verification,Field Survey,Team_East,Tier C,2026-09-03
+OUT_1012,Trung Nguyên Coffee,10.7793653,106.6962527,Cafe,Quận 1,283 Đường số 32,0326506098,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-11-02
+OUT_1434,Nhà Hàng Thuần Chay Quán Âm,10.7966992,106.6528938,Restaurant,Q3,,0938557498,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-11-04
+OUT_1044,74 Juice,10.7563522,106.6785066,Cafe,Thành phố Thủ Đức,169 Đường Lê Hồng Phong,0985933272,Active,Pending Verification,Sales Rep Audit,Team_East,Tier C,2026-07-29
+OUT_1043,Mixue,10.8016529,106.7123072,Cafe,Quận 10,,0917426841,Active,Verified,Field Survey,Team_West,Tier B,2026-06-15
+OUT_1168,Nhà Hàng Hương Lài,10.77734,106.700248,Restaurant,Quận 1,182 Lý Tự Trọng,0705419518,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-07-28
+OUT_1704,Nyna,10.7652892,106.6860308,Cafe,Q7,65 Đường số 12,0981520850,Active,Verified,Field Survey,Team_South,Tier B,2026-10-31
+OUT_1614,Nhà Cà phê Du Lich,10.7972126,106.6776541,Cafe,Quận Phú Nhuận,225 Trần Huy Liệu,0915313636,Active,Pending Verification,Field Survey,Team_Central_2,Tier B,2026-08-18
+OUT_1413,Quán Cà Phê Hanover,10.827167,106.7228547,Cafe,Quận 1,284 Đường số 6,0935478077,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-08-21
+OUT_1179,Nhà Hàng Bếp Bắc,10.7290809,106.7251041,Restaurant,Quận 3,294 Star Hills Residence,0912127756,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier A,2026-09-16
+OUT_1531,Aquarius,10.7914156,106.7111523,Cafe,Quận 5,238 Đường số 47,0327142241,Active,Pending Verification,Sales Rep Audit,Team_West,Tier A,2026-07-08
+OUT_1540,Nhà Hàng Đông Hồ Eden,10.7736096,106.671824,Restaurant,Thành phố Thủ Đức,104 Lê Hồng Phong,0901715772,Active,Pending Verification,Field Survey,Team_East,Tier B,2026-10-17
+OUT_1178,Quán Chay Nấm Hân,10.7531205,106.6991406,Restaurant,Quận Phú Nhuận,220 Đường số 15,0325743132,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-06-20
+OUT_1666,WKND,10.8065107,106.7338292,Restaurant,Quận 10,164 Tống Hữu Định,0988183219,Active,Verified,Field Survey,Team_West,Tier B,2026-06-03
+OUT_1767,Highlands Coffee,10.784071,106.699901,Cafe,Quận 7,  339 Đường số 30 ,0917410119 ,Active,Verified,Distributor Data,Team_South,Tier B,2026-07-20
+OUT_1258,The Banned Bàu Cát,10.7922545,106.6425435,Cafe,Quận 7,232 Đường số 21,0937129666,Active,Verified,Distributor Data,Team_South,Tier A,2026-06-26
+OUT_1766,Chiếc mơ,10.8309503,106.6883009,Cafe,Quận 10,  330 Đường số 44 ,0915701840 ,Active,Verified,Field Survey,Team_West,Tier B,2026-06-14
+OUT_1544,Bánh Cuốn Nóng Hà Nội,10.7925431,106.6913865,Restaurant,Quận 1,162 Trần Khắc Chân,0915396695,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-10-26
+OUT_1016,The Coffee House,10.802546,106.6838791,Cafe,Quận Phú Nhuận,117 Phan Đăng Lưu,0900025787,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-10-28
+OUT_1004,Taj Mahal,10.7680805,106.6925388,Restaurant,Quận 5,233 Đường số 40,0707735925,Active,Pending Verification,Distributor Data,Team_West,Tier C,2026-06-25
+OUT_1336,Nhuận Liên Hương,10.7491632,106.6884653,Restaurant,Quận 7,287 Đường số 10,0837754781,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-07-02
+OUT_1257,Cơm thố Tiến Phát 1,10.7520145,106.6637103,Restaurant,Quận 4,,0320074329,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-07-18
+OUT_1581,Two Guys,10.7835196,106.752298,Restaurant,Quận Phú Nhuận,165 Đường số 1,0831746542,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-10-11
+OUT_1446,lương cay,10.7403775,106.7076837,Restaurant,Quận 5,71 Đường số 21,0701957612,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-10-14
+OUT_1339,Bánh Canh Cá Lóc Bột Gạo,10.7883847,106.7521007,Restaurant,quận 3,169 Đường Số 1,0970848872,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-08-22
+OUT_1479,Nhà Hàng Vườn Cau,10.8217469,106.6937108,Restaurant,Quận 1,275 Đường số 19,0916893639,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier B,2026-08-10
+OUT_1418,Bánh bao Thọ Phát,10.7530434,106.6696811,Restaurant,Quận 10,43 Đường Nguyễn Tri Phương,,Active,Verified,Field Survey,Team_West,Tier B,2026-07-09
+OUT_1639,Nhà Hàng Ấn Độ Natraj,10.7712663,106.6898911,Restaurant,Q7,333 Đường số 32,0978569557,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-06-30
+OUT_1715,Ẻm Ta,10.7561306,106.6783196,Cafe,Quận 5,328 Đường Lê Hồng Phong,0975723246,Active,Verified,Field Survey,Team_West,Tier B,2026-10-06
+OUT_1325,Trung Nguyen E-Coffee,10.7831296,106.7518255,Cafe,TP Thủ Đức,340 Đường số 46,0987660728,Active,Verified,Sales Rep Audit,Team_East,Tier C,2026-10-08
+OUT_1458,Leu,10.7881076,106.6991219,Cafe,Quận 1,111 Đường số 12,0700480589,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-09-05
+OUT_1010,Căn Tin Berlin,10.7815505,106.7007624,Restaurant,Thành phố Thủ Đức,336 Đường số 21,0973950047,Active,Verified,Distributor Data,Team_East,Tier B,2026-10-06
+OUT_1250,Hủ tiếu Đạt Thành,10.7526486,106.6709966,Restaurant,Quận 5,141 Đường Trần Hưng Ðạo,0835842824,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-11-08
+OUT_1023,Quán Bar Piu Piu,10.7773123,106.7041552,Bar,Quận Tân Bình,161 Hai Bà Trưng,0326263689,Active,Pending Verification,Field Survey,Team_North,Tier C,2026-08-13
+OUT_1222,Nhà Hàng Đông Hồ,10.7745919,106.672839,Restaurant,Quận Tân Bình,102 Đường số 3,0906868793,Active,Verified,Distributor Data,Team_North,Tier A,2026-06-08
+OUT_1548,Cà Phê Sân Vườn Du Miên,10.8319446,106.6741792,Cafe,Quận Bình Thạnh,279 Đường số 6,0913290227,Active,Verified,Distributor Data,Team_East,Tier B,2026-10-03
+OUT_1691,Cafe Sông Giồng,10.7885811,106.7531663,Cafe,Quận 4,283 Thân Văn Nhiếp,0982711477,Active,Verified,Field Survey,Team_South,Tier B,2026-07-16
+OUT_1785,Vina Star Coffee,10.76439,106.6325278,Cafe,Quận 3,  41 Đường số 4 ,0327002720 ,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-09-04
+OUT_1627,Cà Phê La Music,10.8210974,106.705363,Cafe,Quận 7,348 Đường số 43,0702570165,Active,Verified,Field Survey,Team_South,Tier C,2026-10-06
+OUT_1341,Nhà Hàng Tokyo Deli,10.7692726,106.6697555,Restaurant,Quận Phú Nhuận,344 Đường số 48,0916580392,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-08-22
+OUT_1672,Kingdom Beer Club,10.7955684,106.666838,Bar,Q7,149 Đường số 16,0322798524,Active,Pending Verification,Sales Rep Audit,Team_South,Tier C,2026-11-15
+OUT_1204,Phổ Đình Uraetei Yakiniku,10.7573304,106.6862853,Restaurant,Quận 1,114 Trần Hưng Ðạo,0704422096,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier C,2026-05-29
+OUT_1238,Trung tâm Hội nghị Tiệc cưới Tân Sơn Nhất Pavillon,10.8010742,106.6706699,Restaurant,Bình Thạnh,326 Hoàng Văn Thụ,0974578610,Active,Verified,Field Survey,Team_East,Tier B,2026-05-26
+OUT_1094,Pizza Hut,10.7807736,106.6982429,Restaurant,Quận 3,206 Lê Duẩn,0981212678,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-06-21
+OUT_1532,Quán Chay Nhà Tôi,10.7884577,106.6975684,Restaurant,Quận 7,246 Đường số 50,0909881385,Active,Pending Verification,Sales Rep Audit,Team_South,Tier B,2026-06-22
+OUT_1363,Cà Phê Terrace,10.7971795,106.6735475,Cafe,Quận 1,260 Đường số 22,0900981806,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-10-14
+OUT_1545,Cửa Hàng Pizza 4P's,10.7818475,106.705108,Restaurant,Quận 1,159 Lê Thánh Tôn,0972197199,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-08-30
+OUT_1285,Phương Thanh,10.7645356,106.695117,Restaurant,quận 7,53 Đường số 27,0975408386,Active,Verified,Distributor Data,Team_South,Tier B,2026-07-18
+OUT_1185,IDOL BAR,10.7799399,106.7055718,Bar,Quận 4,208 Đường số 44,0933651994,Active,Verified,Field Survey,Team_South,Tier B,2026-11-20
+OUT_1650,Quán Phở Hùng,10.764853,106.6876056,Restaurant,Quận 4,135 Đường Nguyễn Trãi,0915093983,Active,Verified,Field Survey,Team_South,Tier B,2026-07-29
+OUT_1397,Trà Sữa Bò Mập,10.7888074,106.6879075,Cafe,Quận 1,226 Huỳnh Tịnh Của,0906120347,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-10-17
+OUT_1154,Quán Chay Xanh Vegan,10.7919959,106.6552029,Restaurant,Quận Tân Bình,149 Đường số 40,0839180552,Active,Verified,Field Survey,Team_North,Tier B,2026-11-17
+OUT_1076,Pizza Hut,10.7619691,106.6706034,Restaurant,Quận 10,346 Đường Ngô Gia Tự,0832808010,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-07-19
+OUT_1454,Cà Phê Chế,10.762242,106.7015048,Cafe,Quận Tân Bình,3 Vĩnh Khánh,0329334419,Active,Verified,Sales Rep Audit,Team_North,Tier C,2026-08-11
+OUT_1696,Trung Tâm Hội Nghị Tiệc Cưới Royal Palace,10.8286031,106.6212063,Restaurant,Quận Phú Nhuận,159 Đường số 2,0906167567,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-10-06
+OUT_1278,Pho 30k,10.7540598,106.642465,Restaurant,Quận 1,165 Đường số 50,0707621202,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-07-03
+OUT_1069,Trần Quang Ký,10.7454025,106.624851,Restaurant,Quận 10,143 Đường Hậu Giang,0917393638,Active,Verified,Field Survey,Team_West,Tier B,2026-08-10
+OUT_1515,Đậu Nành Đêm,10.7892095,106.6666755,Cafe,Thành phố Thủ Đức,183 Đường số 4,0831396605,Active,Verified,Field Survey,Team_East,Tier B,2026-08-23
+OUT_1189,法國麵包,10.7566907,106.6761001,Restaurant,Quận Bình Thạnh,317 Đường số 38,0984720999,Active,Pending Verification,Distributor Data,Team_East,Tier B,2026-10-09
+OUT_1272,Trà Sữa Hoa Hướng Dương,10.7957282,106.6664559,Cafe,Quận 4,284 Lê Văn Sỹ,0835300119,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-11-06
+OUT_1237,Cà Phê BoBaPop Taiwan Lattea,10.7873053,106.678563,Cafe,Quận 3,330 Đường số 18,0973030705,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-10-13
+OUT_1089,nhà hàng bún bò nam bộ,10.7688924,106.699275,Restaurant,Quận 5,4 Đường số 15,0320163159,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-07-30
+OUT_1763,The Wall Coffee (Đã đóng cửa),10.7587752,106.6678012,Cafe,Quận Tân Bình,  40 Đường Ngô Gia Tự ,0326257532 ,Active,Verified,Field Survey,Team_North,Tier C,2026-07-20
+OUT_1118,Bún Cá Nha Trang A. Đinh,10.797738,106.674878,Restaurant,Quận Phú Nhuận,346 Nguyễn Trọng Tuyển,,Active,Pending Verification,Field Survey,Team_Central_2,Tier B,2026-07-10
+OUT_1126,Quán Bún Bò Huế Nhung,10.7893915,106.6893498,Restaurant,Thu Duc,,0905072368,Active,Verified,Field Survey,Team_East,Tier B,2026-10-14
+OUT_1661,Nhà Hàng Lẩu Mắm Bà Dú,10.7704121,106.6696513,Restaurant,Quận Phú Nhuận,232 Đường số 8,0986273014,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-09-23
+OUT_1290,Quán ăn 86,10.7572016,106.6626851,Restaurant,Quận 5,89 Đường Bà Triệu,0977589975,Active,Verified,Distributor Data,Team_West,Tier B,2026-05-27
+OUT_1239,Cộng Cà Phê,10.7666057,106.69208,Cafe,Quận 10,320 Đường Bùi Viện,0975797279,Active,Verified,Distributor Data,Team_West,Tier B,2026-07-31
+OUT_1001,Highlands Coffee,10.7336437,106.6741374,Cafe,Quận 3,,0900109439,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-13
+OUT_1792,Cà Phê Nguyên Chất,10.7806227,106.6798438,Cafe,Quận Bình Thạnh,  291 Nguyễn Thông ,0838068671 ,Active,Verified,Field Survey,Team_East,Tier B,2026-11-09
+OUT_1603,Nhà Hàng Shanti Indian Cuisine,10.7670963,106.6893396,Restaurant,Quận 4,344 Đường số 40,0902196207,Active,Verified,Field Survey,Team_South,Tier B,2026-10-24
+OUT_1795,Highlands Coffee,10.7983839,106.6875999,Cafe,Quận 5,  146 Đường số 6 ,0908588770 ,Active,Pending Verification,Field Survey,Team_West,Tier A,2026-06-15
+OUT_1466,Lẩu sữa Ông Mã,10.753322,106.6745113,Restaurant,Thành phố Thủ Đức,122 Đường Trần Hưng Ðạo,0904259792,Active,Pending Verification,Field Survey,Team_East,Tier A,2026-05-26
+OUT_1279,Saigon Sakura,10.7773654,106.6981201,Restaurant,Quận 4,310 Nguyễn Du,0916979729,Active,Verified,Distributor Data,Team_South,Tier A,2026-11-05
+OUT_1625,Thanh Tâm,10.754471,106.674691,Restaurant,quận 1,310 Đường Bùi Hữu Nghĩa,0935431074,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-09-10
+OUT_1117,Quán Bò Né,10.778864,106.679548,Restaurant,Quận Tân Bình,26 Đường số 17,0702266093,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-06-09
+OUT_1229,Me Coffee,10.8247297,106.6905173,Cafe,Thành phố Thủ Đức,322 Đường số 6,0919148564,Active,Pending Verification,Sales Rep Audit,Team_East,Tier C,2026-09-05
+OUT_1757,Bách Việt 9999,10.8277812,106.7313756,Cafe,Quận Phú Nhuận,  47 Đường số 4 ,0704715437 ,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-06-17
+OUT_1421,Hương Cao Nguyên Sky View,10.8149027,106.6341588,Cafe,Thành phố Thủ Đức,231 Phạm Văn Bạch,0912073564,Active,Verified,Distributor Data,Team_East,Tier C,2026-10-17
+OUT_1435,Nhà Hàng Amazing Bún Thịt Nướng,10.7720975,106.6859856,Restaurant,Quận Bình Thạnh,121 Đường số 7,0931827448,Active,Verified,Field Survey,Team_East,Tier A,2026-10-31
+OUT_1275,Nhà Hàng Chay Thanh Hương,10.7994785,106.656613,Restaurant,Quận Phú Nhuận,293 Nguyễn Thái Bình,0985561100,Active,Pending Verification,Distributor Data,Team_Central_2,Tier A,2026-08-05
+OUT_1319,Quán Bar Rabbit Hole (Đã đóng cửa),10.7776682,106.6976448,Bar,Thủ Đức,337 Đường số 8,0901336138,Active,Verified,Field Survey,Team_East,Tier C,2026-09-10
+OUT_1552,Ngưu Ma Vương,10.7537643,106.6692556,Restaurant,Quận 5,332 Đường Nguyễn Tri Phương,0321403696,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-10-15
+OUT_1145,Topping Beef,10.7797991,106.6949139,Restaurant,Quận Phú Nhuận,203 Nguyễn Thị Minh Khai,0910371293,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-07-26
+OUT_1649,Thủy,10.803816,106.7230505,Restaurant,Quận Phú Nhuận,61 Ung Văn Khiêm,,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-07-27
+OUT_1736,Căn tin,10.7820571,106.7037068,Restaurant,Quận 10,326 Đường số 28,0934295431,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-10-09
+OUT_1727,Cà Phê Sala,10.7438084,106.7041245,Cafe,Quận 3,83 Đường Lê Văn Lương,0935754090,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-09
+OUT_1586,Quán ốc CK,10.7555088,106.6767643,Restaurant,Quận 5,152 Đường Phan Văn Trị,0987072006,Active,Verified,Field Survey,Team_West,Tier B,2026-07-27
+OUT_1370,Bảo Vật,10.7300388,106.7066065,Restaurant,Quận 3,68 Phạm Văn Nghị,0701143519,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-11-09
+OUT_1269,Quán Lẩu Dê 4.4,10.7392767,106.7085733,Restaurant,Quận 1,197 Đường số 49,0936189141,Active,Pending Verification,Field Survey,Team_Central_1,Tier C,2026-06-01
+OUT_1568,Phố Nhật Quán,10.7653734,106.6968847,Restaurant,Quận Tân Bình,255 Đường Nguyễn Thái Học,,Active,Pending Verification,Field Survey,Team_North,Tier B,2026-06-24
+OUT_1308,Tuệ Marina Chay,10.7815956,106.7080781,Restaurant,Quận 4,,0987212281,Active,Verified,Field Survey,Team_South,Tier B,2026-10-19
+OUT_1311,COCA,10.7652441,106.7050062,Restaurant,Thành phố Thủ Đức,34 Đường số 11,0909479851,Active,Verified,Field Survey,Team_East,Tier B,2026-08-07
+OUT_1452,Cà Phê Be Tone,10.8252631,106.7190383,Cafe,Quận 7,230 Đường số 10,0320488899,Active,Verified,Distributor Data,Team_South,Tier B,2026-09-07
+OUT_1047,Hải Thanh,10.7549649,106.6742839,Restaurant,Quận Phú Nhuận,,0910883982,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-10-19
+OUT_1350,Bánh Canh Hoàng Ty,10.7917311,106.6915979,Restaurant,Quận 4,186 Đường số 1,0976517773,Active,Pending Verification,Distributor Data,Team_South,Tier A,2026-10-23
+OUT_1372,Al Frescos,10.8041969,106.7355557,Restaurant,Quận 4,193 Đường số 16,0937703843,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-07-27
+OUT_1524,Soo Kafe Bến Thành,10.7725434,106.6971552,Cafe,Quận 4,69 Phan Chu Trinh,0917357438,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-07-28
+OUT_1262,"Cháo trắng với món ăn kèm, cơm giò heo, đồ ăn khuya",10.7555611,106.6766166,Restaurant,Quận Phú Nhuận,147 Đường Huỳnh Mẫn Đạt,0931044789,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-11-12
+OUT_1196,Phở 24,10.7745474,106.7046273,Restaurant,Quận 10,224 Đường số 42,0705223955,Active,Verified,Field Survey,Team_West,Tier B,2026-06-20
+OUT_1800,Tân Lập Quán,10.7718195,106.6956418,Restaurant,Quận Bình Thạnh,  129 Đường số 22 ,0932820055 ,Active,Verified,Field Survey,Team_East,Tier C,2026-10-09
+OUT_1673,Nhà Hàng Mùa Vàng,10.7776498,106.661955,Restaurant,Bình Thạnh,154 Đường số 9,0901322342,Active,Verified,Field Survey,Team_East,Tier B,2026-06-28
+OUT_1108,Starbucks,10.730743,106.7246856,Cafe,Quận 7,160 Đường số 1,0905891135,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-07-26
+OUT_1060,Nhà Hàng Thế Giới Hải Sản,10.7857006,106.6904759,Restaurant,Quận 5,80 pasteur,0983959953,Active,Verified,Field Survey,Team_West,Tier B,2026-09-17
+OUT_1600,My House Coffee,10.7533703,106.6720577,Cafe,Quận 10,,0326519825,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-10-22
+OUT_1440,Nhà Hàng Như Ý,10.7461511,106.6828013,Restaurant,Quận Phú Nhuận,15 Đường số 29,0971731096,Active,Pending Verification,Field Survey,Team_Central_2,Tier C,2026-08-02
+OUT_1101,Trà Tiên Hưởng,10.8016038,106.7144255,Cafe,Quận Phú Nhuận,111 Điện Biên Phủ,0705756924,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-08-02
+OUT_1478,Cà Phê Sân Vườn Cá Koi,10.8378883,106.7454765,Cafe,Quận 7,306 Đường số 36,0908432562,Active,Pending Verification,Distributor Data,Team_South,Tier A,2026-06-08
+OUT_1719,Sushi World,10.7733218,106.7021836,Restaurant,Quận 3,222 Tôn Thất Thiệp,0903242044,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-01
+OUT_1584,Belgica,10.8167812,106.7324644,Restaurant,Quận Phú Nhuận,168 Nguyễn Văn Hưởng,0937128639,Active,Verified,Field Survey,Team_Central_2,Tier A,2026-10-20
+OUT_1738,Vua Ngỗng Quay Hong Kong,10.7292807,106.7069753,Restaurant,Quận 4,141 Nguyễn Văn Linh,0908931734,Active,Verified,Sales Rep Audit,Team_South,Tier A,2026-06-17
+OUT_1180,Nhà Hàng TNT BBQ,10.7722284,106.6942795,Restaurant,Quận Tân Bình,208 Đặng Trần Côn,0918537474,Active,Verified,Field Survey,Team_North,Tier B,2026-06-02
+OUT_1305,Nhà Hàng Kim Chi,10.7913549,106.662097,Restaurant,Quận 1,348 Đường số 8,0978638406,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-06-20
+OUT_1430,Trung Nguyên Coffee,10.7753501,106.7040924,Cafe,Quận Bình Thạnh,213 Đường số 19,0972719500,Active,Verified,Field Survey,Team_East,Tier C,2026-07-31
+OUT_1508,Nhà Hàng Busan,10.7942779,106.6958784,Restaurant,Quận Bình Thạnh,241 Đường số 26,0937950145,Active,Pending Verification,Sales Rep Audit,Team_East,Tier B,2026-07-15
+OUT_1771,Nathalie's,10.7293374,106.7087772,Restaurant,Quận 1,  326 Bùi Bằng Đoàn ,0931458683 ,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-11-06
+OUT_1150,Nhà Hàng Sushi MH,10.7591014,106.6839301,Restaurant,Quận Tân Bình,155 Nguyễn Văn Cừ,0833112196,Active,Pending Verification,Field Survey,Team_North,Tier C,2026-09-17
+OUT_1125,Casa Lê Quy Dôn,10.7796001,106.6928847,Restaurant,Quận Bình Thạnh,311 Đường số 41,0937422579,Active,Verified,Field Survey,Team_East,Tier B,2026-09-06
+OUT_1635,Saigon Grill Restaurant,10.7769262,106.6993038,Restaurant,Thành phố Thủ Đức,272 Pasteur,0913711624,Active,Verified,Field Survey,Team_East,Tier B,2026-08-07
+OUT_1698,Nhà Hàng 123 Zô – Quán Nướng Ngon,10.8201736,106.6913461,Restaurant,Quận 10,246 Đường số 1,0702467197,Active,Verified,Distributor Data,Team_West,Tier B,2026-09-12
+OUT_1186,Quán Phở 2000,10.7718157,106.697747,Restaurant,Quận 7,11 Đường số 15,0910137215,Active,Verified,Distributor Data,Team_South,Tier B,2026-08-12
+OUT_1542,Trà Sữa TocoToco,10.7670419,106.6958942,Cafe,Quận Phú Nhuận,103 Đường số 29,0915814876,Active,Verified,Distributor Data,Team_Central_2,Tier A,2026-07-11
+OUT_1051,The Coffee House,10.797307,106.6775437,Cafe,Quận 3,27 Đường số 36,0980391065,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-09-10
+OUT_1488,Highlands,10.7884848,106.6997872,Cafe,Quận 10,1 Đường số 41,0973060463,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-07-11
+OUT_1790,The Coffee House,10.7382968,106.7152145,Cafe,Quận 10,  137 Đường số 15 ,0834783667 ,Active,Verified,Distributor Data,Team_West,Tier C,2026-09-15
+OUT_1486,An Nam,10.7518884,106.6619309,Cafe,Quận Bình Thạnh,150 Đường Trần Hưng Ðạo,0973051728,Active,Pending Verification,Sales Rep Audit,Team_East,Tier C,2026-08-14
+OUT_1322,Tân Cảng,10.8005534,106.7246028,Restaurant,Quận 3,171 Đường số 42,0986676650,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-06-04
+OUT_1354,Barista Collective,10.787429,106.6805995,Cafe,Quận 3,175 Hẻm 264 Lê Văn Sỹ,0913797723,Active,Verified,Field Survey,Team_Central_1,Tier A,2026-07-01
+OUT_1740,Cà Phê Royaltea,10.7752924,106.7028656,Cafe,Quận 4,321 Đường số 46,0915291086,Active,Verified,Field Survey,Team_South,Tier B,2026-10-06
+OUT_1143,Nhà Hàng Ấn Độ Curry Rice,10.7762829,106.7042247,Restaurant,Quận Bình Thạnh,24 Đông Du,0934241541,Active,Verified,Field Survey,Team_East,Tier A,2026-08-08
+OUT_1371,Quán phở bò 931B,10.7526581,106.6550247,Restaurant,Quận Tân Bình,306 Đường Nguyễn Trãi,0906698490,Active,Verified,Field Survey,Team_North,Tier A,2026-08-01
+OUT_1142,Nhà Hàng Boomerang Bistro Saigon,10.7262831,106.7204412,Restaurant,Quận 7,158 Đường số 50,0901277063,Active,Verified,Field Survey,Team_South,Tier C,2026-08-05
+OUT_1400,Yoshi Yoshi,10.7570091,106.6781097,Cafe,Quận 4,196 Đường Nguyễn Trãi,0934558771,Active,Verified,Distributor Data,Team_South,Tier C,2026-08-01
+OUT_1264,Cà Phê Cheese Hoa Lan,10.7967539,106.6903635,Cafe,Quận 3,331 Đường số 45,0700332309,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-08-11
+OUT_1321,Bốn Mùa,10.7569523,106.6782765,Street Food,Thủ Đức,77 Đường Lê Hồng Phong,0910248193,Active,Verified,Distributor Data,Team_East,Tier B,2026-10-30
+OUT_1020,Cà Phê L’amant,10.7730991,106.7052231,Cafe,Quận 1,205 Đường số 18,,Active,Verified,Field Survey,Team_Central_1,Tier A,2026-05-31
+OUT_1173,anh cafe,10.7926051,106.6936866,Cafe,Quận 1,,0978505064,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-08-26
+OUT_1654,Trà Sữa Phúc Long,10.7830975,106.6961727,Cafe,Quận Bình Thạnh,314 Đường số 35,0985547813,Active,Verified,Distributor Data,Team_East,Tier C,2026-08-30
+OUT_1313,Highlands Coffee,10.7747454,106.6982421,Cafe,Quận 5,49 Đường số 36,0708861533,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-06-07
+OUT_1391,Tuệ Đăng Quang,10.790031,106.6794021,Restaurant,Quận 7,159 Đường số 33,0325942843,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-07-17
+OUT_1746,Ốc Tao Đàn,10.77734,106.692708,Restaurant,Quận Phú Nhuận,329 Đường số 10,0981180053,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-09-01
+OUT_1013,Trà sữa TenRen (Đã đóng cửa),10.7831114,106.6962575,Cafe,Q.1,111 Trần Cao Vân,0975841687,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-09-19
+OUT_1408,Tân Lập Quán,10.7718195,106.6956418,Restaurant,Quận Bình Thạnh,129 Đường số 22,0932820055,Active,Verified,Field Survey,Team_East,Tier C,2026-10-09
+OUT_1409,Phở QUANG,10.7326811,106.6347277,Restaurant,Quận 4,27 Bến Bình Đông,0837848728,Active,Verified,Sales Rep Audit,Team_South,Tier A,2026-10-31
+OUT_1306,Bánh cuốn Gạo,10.7222463,106.7040534,Restaurant,Quận Tân Bình,307 Đường số 2,0706580043,Active,Verified,Sales Rep Audit,Team_North,Tier C,2026-06-06
+OUT_1355,Wayne's Coffee,10.809768,106.6729142,Cafe,Quận 10,249 Đường số 38,0709292984,Active,Verified,Field Survey,Team_West,Tier C,2026-09-25
+OUT_1026,Quán Bún Chay - 13k,10.744303,106.690393,Restaurant,Quận Phú Nhuận,341 Đường số 16,0989733484,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-10-25
+OUT_1598,Ginza (Đã đóng cửa),10.7666089,106.6816121,Restaurant,quận 7,223 Đường Nguyễn Thiện Thuật,0981792911,Active,Verified,Field Survey,Team_South,Tier C,2026-07-01
+OUT_1170,Cơm tấm Khương cs2,10.8377676,106.6365506,Restaurant,Quận 10,204 Đường số 1,0984518705,Active,Verified,Distributor Data,Team_West,Tier A,2026-07-29
+OUT_1039,BBQ Ông Mập,10.7792552,106.7526661,Restaurant,Quận Bình Thạnh,285 Đường số 2,0324932966,Active,Verified,Distributor Data,Team_East,Tier A,2026-11-20
+OUT_1176,Hello Coffee,10.7539476,106.6672402,Cafe,Quận 3,161 Đường Nguyễn Trãi,0919182619,Active,Pending Verification,Field Survey,Team_Central_1,Tier C,2026-10-05
+OUT_1246,Guru Restaurant,10.7840441,106.6828024,Restaurant,Bình Thạnh,241 Kỳ Ðồng,0984171545,Active,Pending Verification,Sales Rep Audit,Team_East,Tier B,2026-10-01
+OUT_1299,居酒屋 一笑一升,10.7796682,106.7051627,Pub,Quận 1,187 Đường số 36,0709848583,Active,Pending Verification,Distributor Data,Team_Central_1,Tier C,2026-09-23
+OUT_1669,Bún Đậu Homemade,10.7329123,106.7066181,Restaurant,Quận 10,,0705213283,Active,Verified,Field Survey,Team_West,Tier C,2026-06-09
+OUT_1417,Phở Anh,10.7846701,106.682885,Restaurant,Quận 3,146 Đường số 25,,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-10-14
+OUT_1549,Soha plant-based,10.8061023,106.7407569,Restaurant,Quận Phú Nhuận,243 Đường số 19,0986997335,Active,Pending Verification,Distributor Data,Team_Central_2,Tier C,2026-08-21
+OUT_1273,Cà Phê 33,10.7858593,106.6749946,Cafe,Quận Bình Thạnh,22 Đường số 6,0832181143,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-07-09
+OUT_1612,Three O'Clock - Nguyễn Gia Trí,10.8021043,106.7156969,Cafe,Quận 10,312 Đường số 27,0932078113,Active,Verified,Distributor Data,Team_West,Tier C,2026-08-18
+OUT_1155,Quán Bar Ballers,10.7977534,106.7081355,Bar,Thành phố Thủ Đức,168 Hẻm 236/29/2K Điện Biên Phủ,0709658271,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-10-23
+OUT_1127,Highlands Coffee,10.8168229,106.6647235,Cafe,Quận 3,213 Đường số 4,0836767721,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-10-20
+OUT_1450,Nhà Hàng Chay Phi Nhung,10.7927744,106.6881528,Restaurant,Quận 7,72 Ðặng Tất,0985776004,Active,Verified,Field Survey,Team_South,Tier C,2026-06-05
+OUT_1572,The Coffee House,10.7382968,106.7152145,Cafe,Quận 10,137 Đường số 15,0834783667,Active,Verified,Distributor Data,Team_West,Tier C,2026-09-15
+OUT_1342,Cà Phê Viva Star,10.7344014,106.6604488,Cafe,Thành phố Thủ Đức,270 Tạ Quang Bửu,0937229927,Active,Verified,Field Survey,Team_East,Tier A,2026-06-01
+OUT_1431,Ngọc Minh Food,10.7548337,106.6755032,Restaurant,Quận 5,28 Đường Phan Văn Trị,0322812735,Active,Verified,Field Survey,Team_West,Tier B,2026-10-15
+OUT_1288,The Adora Legend,10.7946027,106.6583612,Restaurant,Quận Phú Nhuận,259 Hoàng Việt,0700880199,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-08-25
+OUT_1114,Đại Thống,10.752953,106.670864,Restaurant,Quận 10,80 Đường Trần Hưng Ðạo,0327177514,Active,Pending Verification,Sales Rep Audit,Team_West,Tier C,2026-07-18
+OUT_1500,Cafe Sân Vườn Đông Hồ,10.7748134,106.6732681,Cafe,Quận 4,35 Cao Thắng,0935922220,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-11-16
+OUT_1174,Quán Bar Winking Seal Bia,10.7690299,106.69696,Bar,Quận 5,236 Đường Ðặng Thị Nhu,0913836702,Active,Verified,Field Survey,Team_West,Tier B,2026-10-05
+OUT_1360,Lẩu gà cơ bắp,10.7637659,106.6759719,Restaurant,Quận 7,,0705086376,Active,Verified,Distributor Data,Team_South,Tier B,2026-11-10
+OUT_1483,Nhà Hàng Song Ngư,10.7726596,106.6896406,Restaurant,Quận Tân Bình,295 Đường số 5,0912520566,Active,Verified,Field Survey,Team_North,Tier C,2026-11-12
+OUT_1058,Cà Phê Rita Võ,10.7982919,106.7328138,Tea House,Quận 3,260 Đường số 23,0919079030,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-10-29
+OUT_1553,Cà Phê L’amant,10.7820278,106.7046166,Cafe,Quận 4,98 Đường số 12,0326666832,Active,Verified,Distributor Data,Team_South,Tier B,2026-08-05
+OUT_1223,Cà Phê Napoli,10.7732622,106.6938064,Cafe,Quận 5,89 Nguyễn Du,0834160898,Active,Verified,Field Survey,Team_West,Tier B,2026-09-21
+OUT_1281,Nhà Hàng Bornga,10.7947,106.7216165,Restaurant,Quận 1,257 Đường số 1,0707014508,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-06-09
+OUT_1018,1996 Space & Coffee,10.7667283,106.6999267,Cafe,Quận Tân Bình,174 Đường số 39,0709495888,Active,Verified,Distributor Data,Team_North,Tier B,2026-11-15
+OUT_1128,Nhà hàng Vườn Cau 2,10.8276455,106.6901045,Unknown,Quận Bình Thạnh,140 Nguyễn Thái Sơn,0903404384,Active,Verified,Sales Rep Audit,Team_East,Tier A,2026-05-30
+OUT_1323,Highlands Bưu Điện Thành Phố,10.7800866,106.6994816,Restaurant,Quận 1,42 Công trường Công xã Paris,0701809190,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-07-21
+OUT_1256,Mr. Bisteak,10.7563569,106.6809361,Restaurant,Quận Bình Thạnh,159 Đường Trần Bình Trọng,0832521752,Active,Verified,Distributor Data,Team_East,Tier C,2026-08-07
+OUT_1539,Hà Tôm Hùm,10.7752164,106.7502585,Restaurant,Quận Phú Nhuận,151 Đường số 42,0985625577,Active,Pending Verification,Field Survey,Team_Central_2,Tier C,2026-06-02
+OUT_1471,Cà Phê Phúc Long,10.8019212,106.7483353,Cafe,Thành phố Thủ Đức,215 Đường số 30,0906980420,Active,Verified,Field Survey,Team_East,Tier B,2026-07-05
+OUT_1599,Nhà Hàng GOLD ONE 2 (Đã đóng cửa),10.7750841,106.6880833,Bar,Quận 10,141 Nguyễn Thị Diệu,0917993136,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-08-19
+OUT_1469,Bánh canh cây,10.7553836,106.6744836,Restaurant,Quận 10,25 Đường Bùi Hữu Nghĩa,0987705383,Active,Verified,Field Survey,Team_West,Tier B,2026-06-10
+OUT_1769,Starbucks,10.7756464,106.7005642,Cafe,Quận Tân Bình,  211 Đường số 48 ,0975779071 ,Active,Verified,Field Survey,Team_North,Tier A,2026-07-15
+OUT_1191,Trung Tâm Yến Tiệc Và Hội Nghị Aqua Jardin (Đã đóng cửa),10.8192832,106.6996845,Restaurant,Quận Tân Bình,186 Đường số 13,0986263838,Active,Verified,Field Survey,Team_North,Tier A,2026-07-22
+OUT_1116,Cà Phê MyLife,10.76423,106.6923359,Cafe,Quận 4,317 Đường Trần Hưng Ðạo,0938258673,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-06-13
+OUT_1517,Nhà Hàng Pastamania,10.7708205,106.669536,Restaurant,Quận 10,177 Đường số 48,,Active,Verified,Field Survey,Team_West,Tier C,2026-11-09
+OUT_1710,Chay Tịnh Tầm,10.7846213,106.6228432,Restaurant,Quận Bình Thạnh,349 Đường số 34,0919195419,Active,Pending Verification,Distributor Data,Team_East,Tier A,2026-11-10
+OUT_1536,Maika,10.75126,106.6647558,Restaurant,Quận 1,33 Đường Tản Đà,0939979545,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-09-10
+OUT_1095,Nhà Hàng Đồng Nhân,10.7734311,106.7026178,Restaurant,Quận 5,36 Đường số 35,0701015819,Active,Verified,Distributor Data,Team_West,Tier A,2026-08-05
+OUT_1181,Cà Phê Yên,10.7757455,106.6862278,Cafe,Quận 4,328 Đường số 19,0911249035,Active,Pending Verification,Field Survey,Team_South,Tier A,2026-10-25
+OUT_1302,Cơm Chay Thuận Thiên,10.7889878,106.7531903,Bistro,Quận Tân Bình,199 Thân Văn Nhiếp,0986081062,Active,Pending Verification,Distributor Data,Team_North,Tier B,2026-06-24
+OUT_1617,GenChay,10.783204,106.695945,Restaurant,Quận 5,35 Đường số 20,0975435209,Active,Verified,Field Survey,Team_West,Tier C,2026-07-20
+OUT_1582,Thế Giới Donut,10.7880797,106.6918442,Cafe,Quận 4,53 Hai Bà Trưng,,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-10-16
+OUT_1591,Nhà Hàng Meat & Meet,10.7714463,106.692749,Restaurant,Quận 1,86 Lê Thị Riêng,0972806346,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-10-22
+OUT_1732,Bánh canh Quảng Trị,10.7979992,106.6643687,Restaurant,Quận Phú Nhuận,146 Đường số 2,0934815698,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-10-13
+OUT_1559,Starbucks,10.7779247,106.6898048,Cafe,Quận Tân Bình,140 Đường số 33,0986895009,Active,Verified,Distributor Data,Team_North,Tier B,2026-10-19
+OUT_1709,Quán ăn/ cafe she,10.7726266,106.7255556,Restaurant,Thành phố Thủ Đức,239 Đường số 27,0984049639,Active,Pending Verification,Field Survey,Team_East,Tier C,2026-06-24
+OUT_1543,Phở Hiền,10.8253827,106.690096,Restaurant,Quận Bình Thạnh,22 Đường số 3,0703938276,Active,Verified,Field Survey,Team_East,Tier B,2026-09-19
+OUT_1006,Cà Phê Snob,10.7700226,106.6862092,Cafe,Quận 4,310 Đường số 25,0323714732,Active,Verified,Field Survey,Team_South,Tier B,2026-06-25
+OUT_1786,nhà hàng bún bò nam bộ,10.7688924,106.699275,Restaurant,Quận 5,  4 Đường số 15 ,0320163159 ,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-07-30
+OUT_1046,Highlands Coffee (Đã đóng cửa),10.743962,106.7323365,Cafe,Quận 1,63 Đường số 20,0979187851,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-06-29
+OUT_1726,Bún bò Huế Chú Hà,10.7716935,106.6856775,Restaurant,Quận 3,85 Võ Văn Tần,0321586734,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-10-09
+OUT_1158,Jerrico Lounge,10.7628447,106.6901652,Bar,Quận 1,255 Cao Bá Nhạ,0934141832,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-10-07
+OUT_1606,Phở SOL,10.7652768,106.704991,Restaurant,Quận Bình Thạnh,187 Đường số 5,0972909279,Active,Verified,Field Survey,Team_East,Tier B,2026-06-28
+OUT_1172,Cà Phê Yes,10.792289,106.688214,Cafe,Quận 5,,0833832060,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-09-15
+OUT_1017,Nhà Hàng Maison Marou,10.8036044,106.7345714,Restaurant,Quận 5,212 Đường số 18,0939825952,Active,Verified,Field Survey,Team_West,Tier A,2026-08-29
+OUT_1512,Nhà Hàng Vietheritage,10.7781095,106.6907907,Restaurant,Quận 7,192 Võ Văn Tần,0986954899,Active,Verified,Field Survey,Team_South,Tier B,2026-09-16
+OUT_1049,Nhà Hàng Lẩu và Nướng Grill Riverside,10.7939164,106.6862258,Restaurant,Quận 3,341 Hoàng Sa,0918707286,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-11-09
+OUT_1775,Tan Lap,10.7718641,106.6955095,Cafe,Quận 5,  64 Lê Thánh Tôn ,0706341638 ,Active,Verified,Field Survey,Team_West,Tier C,2026-09-20
+OUT_1758,Quán Bar Ballers,10.7977534,106.7081355,Bar,Thành phố Thủ Đức,  168 Hẻm 236/29/2K Điện Biên Phủ ,0709658271 ,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-10-23
+OUT_1481,Cafe Bistro Kingdom,10.775928,106.6630836,Cafe,Dist. 1,324 Tô Hiến Thành,0972983248,Active,Pending Verification,Distributor Data,Team_Central_1,Tier C,2026-09-05
+OUT_1284,Cà Phê Thy Thy,10.7872188,106.6238513,Cafe,Quận Phú Nhuận,231 Lê Thúc Hoạch,0938772175,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-10-23
+OUT_1537,Cộng Cà Phê,10.788868,106.6907767,Cafe,Quận 1,235 Đường Hai Bà Trưng,0978179217,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-06-04
+OUT_1226,Cà Phê Vườn Kiểng,10.7757808,106.7071741,Cafe,Quận 5,336 Đường số 39,0321168685,Active,Verified,Field Survey,Team_West,Tier C,2026-07-07
+OUT_1027,Weed Kush Vietnam,10.7662989,106.6913831,Bar,Thành phố Thủ Đức,131 Đường số 47,0974437575,Active,Verified,Field Survey,Team_East,Tier B,2026-08-31
+OUT_1631,Tiệm 365 Cafe,10.8044207,106.6468465,Cafe,Quận Tân Bình,228 Nguyễn Quang Bích,0918325381,Active,Pending Verification,Distributor Data,Team_North,Tier C,2026-07-04
+OUT_1438,Nhà Hàng Bon,10.768989,106.699256,Restaurant,Quận 5,192 Đường Nguyễn Công Trứ,0838294565,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-08-11
+OUT_1365,Cà Phê 003,10.7628194,106.6724449,Cafe,Quận 7,270 Đường số 49,0984869594,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-07-13
+OUT_1230,Bò Bít Tết Cô Khuê,10.7891951,106.753248,Restaurant,Thành phố Thủ Đức,253 Thân Văn Nhiếp,0707997024,Active,Verified,Distributor Data,Team_East,Tier B,2026-07-26
+OUT_1038,Trung Nguyên Coffee,10.783733,106.694489,Cafe,Quận 3,67 Phạm Ngọc Thạch,0971527420,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-06-06
+OUT_1780,SB-Tacos,10.7745351,106.6901855,Restaurant,Q.1,  79 Đường số 32 ,0934041574 ,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-11-14
+OUT_1375,Nhà Hàng Gaxeo Chicken,10.7734747,106.7027802,Restaurant,Thành phố Thủ Đức,93 Đường số 15,0706938011,Active,Verified,Field Survey,Team_East,Tier C,2026-06-18
+OUT_1470,Há cảo Bàn Cờ,10.7544598,106.6604447,Restaurant,Quận Bình Thạnh,123 Đường Ký Hòa,0978848792,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-09-30
+OUT_1772,Aquarius,10.7914156,106.7111523,Cafe,Quận 5,  238 Đường số 47 ,0327142241 ,Active,Pending Verification,Sales Rep Audit,Team_West,Tier A,2026-07-08
+OUT_1683,Torasan,10.7794442,106.7048775,Restaurant,Q.1,122 Đường số 22,0917182754,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-16
+OUT_1695,Uy Lợi,10.7528726,106.6608166,Restaurant,Quận 5,34 Đường Nguyễn Trãi,0838485880,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-07-08
+OUT_1195,Phở Rạch Giá,10.7900563,106.6890386,Restaurant,Q. Bình Thạnh,125 Đường số 15,0931334803,Active,Pending Verification,Field Survey,Team_East,Tier B,2026-06-06
+OUT_1685,Ẩm Thực Chay Khang's House,10.7842361,106.6631876,Restaurant,Quận 5,14 Đường số 10,0987386463,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-06-27
+OUT_1694,Quán Bar Phoenix,10.7621352,106.6749645,Street Food,TP Thủ Đức,45 Đường số 8,0911877347,Active,Verified,Field Survey,Team_East,Tier B,2026-06-06
+OUT_1504,Quán Nhậu Bamboo,10.7918435,106.6626874,Restaurant,Quận 4,260 Đường số 45,0707199038,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-09-16
+OUT_1774,Tartine,10.7774919,106.7575808,Cafe,Thu Duc,  271 Đường số 40 ,0708622783 ,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-11
+OUT_1670,Cafe Văn Khoa,10.7859381,106.7028933,Cafe,Quận 10,282 Đường số 4,0978988816,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-10-30
+OUT_1773,Highlands,10.7884848,106.6997872,Cafe,Quận 10,  1 Đường số 41 ,0973060463 ,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-07-11
+OUT_1163,Phở Chùa Lạng Sơn,10.7427473,106.7041679,Restaurant,Quận Tân Bình,273 Đường số 6,0910564814,Active,Verified,Distributor Data,Team_North,Tier C,2026-08-07
+OUT_1752,Nhà Hàng Thóc,10.76482,106.6949607,Restaurant,Quận 5,338 Ðề Thám,0988562572,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-10-22
+OUT_1153,とり皮みつますホーチミン,10.7793412,106.7053498,Restaurant,Quận 7,131 Đường số 4,0704037613,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-07-16
+OUT_1558,Đông Nguyên,10.7528149,106.6583471,Restaurant,Quận 4,170 Đường Nguyễn Trãi,0972690973,Active,Verified,Field Survey,Team_South,Tier C,2026-08-05
+OUT_1573,Saveur Café,10.79261,106.687777,Street Food,Quận Phú Nhuận,43 Nguyễn Văn Nguyễn,0982860476,Active,Pending Verification,Field Survey,Team_Central_2,Tier B,2026-06-25
+OUT_1676,Nhà Hàng Chay Kimsa,10.8038741,106.6906084,Restaurant,Quận Phú Nhuận,90 Đường số 5,0831401401,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-07-01
+OUT_1112,Nhà Hàng D'Green Salad Food Drink,10.769733,106.693061,Restaurant,Thành phố Thủ Đức,44 Đường số 31,0320714611,Active,Verified,Field Survey,Team_East,Tier A,2026-05-30
+OUT_1227,Nhà Hàng Hồ Tây,10.784324,106.697355,Restaurant,Quận Tân Bình,39 Trần Cao Vân,0988709986,Active,Verified,Sales Rep Audit,Team_North,Tier A,2026-10-04
+OUT_1793,Bánh canh Quảng Trị,10.7979992,106.6643687,Restaurant,Quận Phú Nhuận,  146 Đường số 2 ,0934815698 ,Active,Verified,Sales Rep Audit,Team_Central_2,Tier B,2026-10-13
+OUT_1104,VP-Coffee,10.7594473,106.6675829,Cafe,Quận 4,233 Đường Nguyễn Chí Thanh,,Active,Pending Verification,Distributor Data,Team_South,Tier A,2026-10-29
+OUT_1422,Phở Khôi Nguyên,10.754646,106.6766316,Restaurant,Quận 4,263 Đường Huỳnh Mẫn Đạt,0835705120,Active,Verified,Distributor Data,Team_South,Tier A,2026-08-04
+OUT_1420,Cafe Sa Huỳnh,10.7988301,106.6269833,Cafe,Quận Bình Thạnh,140 Nguyễn Quý Anh,0931442703,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-24
+OUT_1120,Cà Phê Lisa,10.7965478,106.6855057,Cafe,Quận 3,140 Hoàng Sa,0831478596,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-09-08
+OUT_1054,Lẩu bò nhúng giấm,10.7539188,106.6652295,Beer Club,Thành phố Thủ Đức,160 Đường Nguyễn Trãi,0918251286,Active,Verified,Sales Rep Audit,Team_East,Tier A,2026-11-03
+OUT_1152,Nhà Hàng Hoa Túc,10.7783472,106.7038891,Restaurant,Quận 1,71 Hai Bà Trưng,0980438983,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-11-01
+OUT_1404,Bồ Đề Tịnh Tâm,10.7920314,106.7302772,Restaurant,Quận 10,83 Trần Não,0836220234,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-07-23
+OUT_1754,Highlands Coffee,10.7296875,106.6945669,Cafe,Quận 7,310 Đường số 46,0834276170,Active,Verified,Field Survey,Team_South,Tier C,2026-10-01
+OUT_1208,Phở Muslim,10.7576354,106.687285,Restaurant,Thành phố Thủ Đức,262 Đường số 29,0324100676,Active,Pending Verification,Distributor Data,Team_East,Tier B,2026-10-30
+OUT_1678,Quán Ốc Chị Hồng,10.7803951,106.6785501,Restaurant,Quận Tân Bình,261 Hẻm 210 CMTT,0912495528,Active,Verified,Field Survey,Team_North,Tier B,2026-10-21
+OUT_1619,Lucky Cafe & Fastfood,10.8166096,106.6624638,Cafe,Quận Bình Thạnh,331 Đường số 8,0323492929,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-10-16
+OUT_1009,Nhà Hàng Som Tum Thai,10.7792532,106.7038786,Restaurant,Dist 3,59 Lê Thánh Tôn,0834701687,Active,Pending Verification,Distributor Data,Team_Central_1,Tier A,2026-06-28
+OUT_1652,Đen Đá Coffee - Pasteur,10.7783879,106.6982947,Cafe,Quận Tân Bình,229 Đường số 44,,Active,Verified,Distributor Data,Team_North,Tier C,2026-07-30
+OUT_1037,Trung Tâm Tiếng Anh Hội Việt Mỹ - VUS,10.7287847,106.7203938,Restaurant,Dist 3,191 Đường số 32,0838872874,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-22
+OUT_1453,Mai Coffee,10.7795723,106.7517937,Unknown,Quận 10,316 Đường số 16,0931075224,Active,Verified,Field Survey,Team_West,Tier B,2026-08-06
+OUT_1254,Starbucks,10.7710508,106.6939121,Cafe,Quận Phú Nhuận,260 Đường số 31,0917381684,Active,Pending Verification,Field Survey,Team_Central_2,Tier B,2026-06-13
+OUT_1304,Nhà Hàng Hương Lúa 8,10.7446631,106.7013895,Restaurant,Quận 4,174 Đường số 32,0904380571,Active,Verified,Distributor Data,Team_South,Tier B,2026-08-27
+OUT_1607,Cơm Tấm,10.7609741,106.6314602,Restaurant,Quận 4,263 Đường Lương Minh Nguyệt,0914560833,Active,Verified,Field Survey,Team_South,Tier B,2026-09-08
+OUT_1580,Medusa Club,10.7771622,106.691199,Bar,Quận 3,151 Đường Võ Văn Tần,0936921244,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-08-07
+OUT_1588,Cà Phê Passio,10.7856401,106.7009163,Cafe,Quận Tân Bình,229 Đường số 48,0836618306,Active,Verified,Field Survey,Team_North,Tier C,2026-05-25
+OUT_1263,The Wall Coffee (Đã đóng cửa),10.7587752,106.6678012,Cafe,Quận Tân Bình,40 Đường Ngô Gia Tự,0326257532,Active,Verified,Field Survey,Team_North,Tier C,2026-07-20
+OUT_1298,Cơm Tấm Chay An,10.7919566,106.660185,Restaurant,Quận 1,82 Đường số 18,0974654722,Active,Pending Verification,Field Survey,Team_Central_1,Tier C,2026-08-01
+OUT_1415,Cà Phê Thức,10.7770535,106.6997485,Cafe,Quận 5,265 Đường số 44,0323686632,Active,Verified,Distributor Data,Team_West,Tier B,2026-06-04
+OUT_1151,Dynasty House,10.7958923,106.6755923,Restaurant,Quận 3,109 Nguyễn Văn Trỗi,0326523413,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier C,2026-06-25
+OUT_1637,Cô Lan,10.7542365,106.6747161,Restaurant,Quận Phú Nhuận,204 Đường Bùi Hữu Nghĩa,0978046827,Active,Verified,Distributor Data,Team_Central_2,Tier A,2026-06-28
+OUT_1713,Chất Coffee,10.7646086,106.7052812,Cafe,Quận 3,66 Đường số 5,0838208297,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-08-26
+OUT_1551,"Phở, Lẩu, Món Tiềm",10.7664138,106.6484761,Restaurant,Quận Bình Thạnh,,0702405800,Active,Verified,Distributor Data,Team_East,Tier C,2026-10-27
+OUT_1489,Phở Cao Vân,10.7847219,106.6994425,Restaurant,Thành phố Thủ Đức,315 Mạc Đĩnh Chi,0973127975,Active,Verified,Sales Rep Audit,Team_East,Tier C,2026-07-06
+OUT_1148,Trà Sữa R&B,10.7730866,106.6690265,Cafe,Quận Tân Bình,4 Đường số 38,0982622189,Active,Pending Verification,Distributor Data,Team_North,Tier B,2026-09-18
+OUT_1147,Nhà Hàng The Gangs,10.7868339,106.6976992,Restaurant,Quận 7,29 Đường số 20,0913611155,Active,Verified,Distributor Data,Team_South,Tier A,2026-06-29
+OUT_1589,Hana Buffet,10.7835575,106.6909915,Restaurant,Quận Phú Nhuận,309 Đường số 44,0831985546,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-07-13
+OUT_1743,Tiệm Bia Gà (Đã đóng cửa),10.7901555,106.7102645,Bar,Thành phố Thủ Đức,274 Phạm Viết Chánh,0976262044,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-06
+OUT_1602,Nhà Hàng Lẩu Hoàng Yến,10.7704859,106.6694797,Restaurant,Q3,39 Đường số 21,0936258273,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-08-09
+OUT_1349,Trung Tâm Yến Tiệc Và Hội Nghị Amor Resort,10.8080456,106.687733,Restaurant,Q7,10 Nguyễn Văn Đậu,0983222591,Active,Verified,Field Survey,Team_South,Tier C,2026-08-03
+OUT_1464,Quán Ngon 138,10.7775622,106.6975402,Restaurant,Quận 1,57 Nam Kỳ Khởi Nghĩa,0971465911,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-06-18
+OUT_1326,Thong bún bò huê,10.7706992,106.6895953,Cafe,Thành phố Thủ Đức,73 Đường số 19,,Active,Pending Verification,Distributor Data,Team_East,Tier A,2026-10-01
+OUT_1187,Nhà Hàng L'usine,10.7731015,106.6994604,Restaurant,Quận Tân Bình,167 Lê Lợi,0910702966,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-10-23
+OUT_1124,TNR Saigon,10.7671444,106.6906673,Bar,Quận 4,249 Ðỗ Quang Ðẩu,0939662782,Active,Verified,Field Survey,Team_South,Tier B,2026-07-22
+OUT_1684,Nhà Hàng Nướng Barbecue Garden,10.7772883,106.6977562,Restaurant,Quận 1,253 Nam Kỳ Khởi Nghĩa,0901571647,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-07-06
+OUT_1144,Tealive,10.7710761,106.6696352,Cafe,Quận 4,113 Đường số 25,0322064361,Active,Verified,Field Survey,Team_South,Tier A,2026-10-28
+OUT_1764,Ghiền Lẩu,10.8313581,106.686435,Restaurant,Quận Bình Thạnh,  350 Dương Quảng Hàm ,0930456504 ,Active,Verified,Field Survey,Team_East,Tier B,2026-11-10
+OUT_1198,Quán Hủ Tiếu Nam Vang,10.7254777,106.7092096,Restaurant,Quận Tân Bình,206 Đặng Đức Thuật,0982701039,Active,Verified,Sales Rep Audit,Team_North,Tier C,2026-09-05
+OUT_1280,Cà Phê Cây Sung,10.8267452,106.7217596,Cafe,Q. Bình Thạnh,,0705902771,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-14
+OUT_1294,Cà Phê BB Corner,10.7728073,106.6952588,Cafe,Thành phố Thủ Đức,225 Đường số 29,0975160917,Active,Verified,Field Survey,Team_East,Tier A,2026-09-09
+OUT_1401,Phở Quyên,10.7632257,106.6777149,Restaurant,Quận 10,258 Hồ Thị Kỷ,0709472256,Active,Verified,Field Survey,Team_West,Tier A,2026-08-07
+OUT_1123,Nam Ký,10.7549021,106.671974,Restaurant,Quận 4,218 Đường Trần Phú,0981252866,Active,Verified,Field Survey,Team_South,Tier A,2026-11-01
+OUT_1184,Nhà Hàng Pundjab,10.7680371,106.6941696,Restaurant,Quận Tân Bình,59 Đường số 5,0917121003,Active,Pending Verification,Sales Rep Audit,Team_North,Tier B,2026-11-17
+OUT_1203,Ô Bun Cha,10.7327271,106.7087775,Restaurant,quận 7,174 Phan Khiêm Ích,0322895392,Active,Pending Verification,Field Survey,Team_South,Tier A,2026-06-02
+OUT_1439,Quán Nhà,10.7668609,106.7010004,Restaurant,Quận 5,115 Đường Võ Văn Kiệt,0911810220,Active,Verified,Distributor Data,Team_West,Tier A,2026-10-10
+OUT_1247,Cà Phê The Coffee Tea,10.7410256,106.7159611,Cafe,Quận 10,227 Đường Lâm Văn Bền,0984432830,Active,Verified,Field Survey,Team_West,Tier C,2026-09-07
+OUT_1416,Tan Lap,10.7718641,106.6955095,Cafe,Quận 5,64 Lê Thánh Tôn,0706341638,Active,Verified,Field Survey,Team_West,Tier C,2026-09-20
+OUT_1712,Lắc Kiu,10.7539049,106.665158,Restaurant,Quận 5,177 Đường Nguyễn Trãi,0708536649,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-11-16
+OUT_1130,Mìng Sấm (Đã đóng cửa),10.7559957,106.6694462,Restaurant,Thành phố Thủ Đức,263 Đường Nguyễn Tri Phương,0914858078,Active,Pending Verification,Distributor Data,Team_East,Tier A,2026-09-19
+OUT_1403,Sa Đéc Quán,10.7916305,106.6861746,Restaurant,Quận 1,215 Hẻm 475 Hai Bà Trưng,0984964759,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-09-20
+OUT_1633,Nhà Hàng The Organic,10.7916099,106.693465,Restaurant,Quận Tân Bình,294 Đường số 48,0704015577,Active,Verified,Distributor Data,Team_North,Tier C,2026-11-04
+OUT_1624,Quán Cà Phê Phúc Long,10.8006115,106.6606041,Cafe,Quận Phú Nhuận,17 Cộng Hoà,0837318063,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-09-04
+OUT_1728,Ái Huê 2,10.7523262,106.661902,Restaurant,Quận Tân Bình,166 Đường Trần Hưng Ðạo,0903486451,Active,Pending Verification,Distributor Data,Team_North,Tier A,2026-10-16
+OUT_1220,Highlands Coffee,10.7301307,106.7223018,Cafe,Quận 10,75 Đường số 6,0987743490,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-06-08
+OUT_1730,Tiệm Chay Thong Thả,10.7614217,106.6668168,Restaurant,Quận 1,178 Đường số 30,0974327560,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-17
+OUT_1610,Nhà Hàng Cà Phê Hồ Chí Minh (Đã đóng cửa),10.7696927,106.6977556,Restaurant,Binh Thanh,16 Đường Calmette,0832200543,Active,Verified,Distributor Data,Team_East,Tier A,2026-10-13
+OUT_1733,Vina Star Coffee,10.76439,106.6325278,Cafe,Quận 3,41 Đường số 4,0327002720,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-09-04
+OUT_1618,Nhà Hàng Đồ Ăn Việt Nam Aroma,10.7684684,106.6938884,Restaurant,Binh Thanh,121 Đường Phạm Ngũ Lão,0904217762,Active,Pending Verification,Field Survey,Team_East,Tier B,2026-11-14
+OUT_1387,Bún Mắm Cô Bình,10.754833,106.6677511,Beer Club,Q1,230 Đường Nguyễn Trãi,0327947284,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-10-12
+OUT_1776,Bagel Brothers,10.7698526,106.6963743,Cafe,Quận Phú Nhuận,  198 Đường số 48 ,0980792904 ,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-06-01
+OUT_1510,Nathalie's,10.7293374,106.7087772,Restaurant,Quận 1,326 Bùi Bằng Đoàn,0931458683,Active,Verified,Distributor Data,Team_Central_1,Tier A,2026-11-06
+OUT_1268,Nhà Hàng Trung Hoa Saigon 3,10.7746583,106.6886013,Restaurant,Quận Tân Bình,260 Võ Văn Tần,0904618499,Active,Verified,Distributor Data,Team_North,Tier C,2026-06-18
+OUT_1782,Cafe Sân Vườn Đông Hồ,10.7748134,106.6732681,Cafe,Quận 4,  35 Cao Thắng ,0935922220 ,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-11-16
+OUT_1442,Hủ Tiếu Nam Vang A - Lú,10.8086964,106.7331432,Restaurant,Quận 7,51 Trúc Đường,0910371705,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-08-13
+OUT_1497,Abies BBQ,10.7608364,106.6985697,Restaurant,Binh Thanh,44 Đường số 7,0902793714,Active,Verified,Distributor Data,Team_East,Tier A,2026-08-26
+OUT_1113,Quán Chính ký Mì Gia,10.7955927,106.6282175,Restaurant,Quận Bình Thạnh,27 Gò Dầu,0935457387,Active,Verified,Sales Rep Audit,Team_East,Tier C,2026-10-13
+OUT_1233,Highlands Coffee,10.7855597,106.676484,Cafe,Quận Phú Nhuận,297 Đường số 38,0984713247,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-08-05
+OUT_1699,Pasteur Beer Craft,10.767411,106.6940516,Pub,Quận 4,270 Đường số 23,0837828064,Active,Verified,Field Survey,Team_South,Tier A,2026-09-30
+OUT_1608,Minh Phát (Đã đóng cửa),10.7549614,106.6767919,Restaurant,Quận 5,348 Đường Huỳnh Mẫn Đạt,0918195883,Active,Verified,Field Survey,Team_West,Tier B,2026-11-11
+OUT_1374,Hoàng Ty,10.7954485,106.6724281,Restaurant,Quận 7,84 Trương Quốc Dung,0323021465,Active,Verified,Distributor Data,Team_South,Tier B,2026-10-25
+OUT_1234,Mimi,10.7520973,106.6633345,Restaurant,Quận Bình Thạnh,230 Đường Trần Hưng Ðạo,0324691373,Active,Verified,Field Survey,Team_East,Tier C,2026-11-16
+OUT_1634,Kyo Cha,10.7950236,106.6907797,Cafe,quận 1,71 Trần Khắc Chân,0917884795,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-11-10
+OUT_1318,MIT rooftop bistro,10.7736594,106.7054779,Restaurant,Thành phố Thủ Đức,130 Ðồng Khởi,0983581128,Active,Verified,Field Survey,Team_East,Tier A,2026-09-29
+OUT_1411,Ann Vegetarian,10.7826015,106.6615827,Restaurant,Quận 7,247 Đường số 26,0985783174,Active,Pending Verification,Field Survey,Team_South,Tier C,2026-08-18
+OUT_1718,La Haye Kitchen & Bar - DIAMOND,10.7792954,106.747659,Restaurant,Thủ Đức,67 Đường số 33,0903477866,Active,Verified,Sales Rep Audit,Team_East,Tier B,2026-07-09
+OUT_1359,Nhà Hàng The Lunch Lady,10.7915811,106.7042222,Restaurant,Quận Tân Bình,80 Đường số 29,0911729806,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-08-23
+OUT_1259,Chú Thòn,10.7529575,106.6709164,Restaurant,Quận Phú Nhuận,20 Đường Trần Hưng Ðạo,0707600835,Active,Verified,Distributor Data,Team_Central_2,Tier C,2026-06-22
+OUT_1628,Cafe Trung Nguyên,10.7563655,106.685485,Cafe,Quận Bình Thạnh,231 Đường Trần Hưng Ðạo,0904649893,Active,Verified,Distributor Data,Team_East,Tier B,2026-07-19
+OUT_1283,Quán Miến Kỳ Đồng,10.7830309,106.6821367,Restaurant,quận 7,32 Đường số 35,0835628900,Active,Verified,Field Survey,Team_South,Tier A,2026-07-23
+OUT_1377,Cộng Cà Phê,10.7831523,106.695846,Cafe,Quận 10,85 Công Trường Quốc Tế,0977690426,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-10-26
+OUT_1385,Kungfu Mì Kéo Lộc Ký,10.7467142,106.642449,Restaurant,Quận Bình Thạnh,313 Bến Bãi Sậy,0973952111,Active,Pending Verification,Distributor Data,Team_East,Tier C,2026-09-30
+OUT_1225,Think Cup Coffee,10.7632043,106.6932994,Cafe,Quận Phú Nhuận,79 Nguyễn Khắc Nhu,0906163294,Active,Pending Verification,Field Survey,Team_Central_2,Tier B,2026-06-14
+OUT_1760,Pingu's Burger,10.8092321,106.7339752,Restaurant,Quận Bình Thạnh,  260 Đường Số 2 ,0909733977 ,Active,Verified,Field Survey,Team_East,Tier A,2026-06-23
+OUT_1658,Cà Phê Oto,10.7861339,106.6845894,Cafe,Quận 3,63 Lý Chính Thắng,0839232648,Active,Verified,Field Survey,Team_Central_1,Tier A,2026-06-15
+OUT_1473,Bún Bò Huế Nhân Trí 1,10.7622509,106.6762166,Restaurant,Dist 3,319 Đường số 17,0704510463,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-06-16
+OUT_1348,Hoành thánh - Bún xào - Gỏi cuốn,10.7555204,106.6759045,Restaurant,Quận Tân Bình,186 Đường Phan Văn Trị,0908272318,Active,Pending Verification,Field Survey,Team_North,Tier C,2026-08-27
+OUT_1506,Lẩu Chay Nhà Nát,10.7730075,106.6648255,Restaurant,Thành phố Thủ Đức,11 Đường số 2,0320209945,Active,Verified,Field Survey,Team_East,Tier C,2026-09-05
+OUT_1640,Viva Star Coffee,10.7611117,106.6308725,Cafe,Quận Bình Thạnh,143 Đường Lương Minh Nguyệt,0837492424,Active,Verified,Field Survey,Team_East,Tier C,2026-07-29
+OUT_1789,Nhuận Liên Hương,10.7491632,106.6884653,Restaurant,Quận 7,  287 Đường số 10 ,0837754781 ,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-07-02
+OUT_1741,Nhà Hàng Song Tân,10.7455491,106.7158206,Restaurant,Quận Tân Bình,156 Đường Lâm Văn Bền,0837133344,Active,Verified,Field Survey,Team_North,Tier B,2026-11-15
+OUT_1723,Quán Cơm Tấm 390,10.7830862,106.6720457,Restaurant,Quận Tân Bình,266 Đường số 15,0831391559,Active,Verified,Field Survey,Team_North,Tier C,2026-10-23
+OUT_1620,Trung Nguyên Coffee,10.7921354,106.7128519,Cafe,Thành phố Thủ Đức,188 Đường số 7,0971687397,Active,Pending Verification,Distributor Data,Team_East,Tier C,2026-10-16
+OUT_1686,Thiên Sơn Plaza,10.7318839,106.7191567,Restaurant,Quận 5,185 Đường số 39,0917520716,Active,Verified,Distributor Data,Team_West,Tier A,2026-11-08
+OUT_1646,The Coffee House,10.7621963,106.6750129,Cafe,Quận Bình Thạnh,266 Đường số 14,0910672752,Active,Verified,Sales Rep Audit,Team_East,Tier A,2026-10-17
+OUT_1679,An Duyên,10.7512629,106.6695991,Restaurant,Dist. 1,115 Đường Nguyễn Tri Phương,0978911908,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-06-10
+OUT_1557,Bún Cá Kiên Giang CN2,10.769113,106.6781153,Restaurant,Quận 5,336 Đường số 24,0937868765,Active,Verified,Field Survey,Team_West,Tier B,2026-11-06
+OUT_1578,Đảo Kim Cương,10.7765218,106.7515941,Restaurant,Quận Bình Thạnh,93 Đường số 24,0835344300,Active,Verified,Sales Rep Audit,Team_East,Tier C,2026-05-29
+OUT_1086,Nhà Hàng Saigon Garden,10.7755232,106.702529,Restaurant,Quận 5,159 Nguyễn Huệ,,Active,Verified,Field Survey,Team_West,Tier B,2026-07-13
+OUT_1243,Cái Cối,10.8037372,106.7282768,Restaurant,Quận 1,78 Đường Nguyễn Cừ,,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-07-29
+OUT_1160,Nhà Hàng StormP Saigon,10.7776676,106.7044489,Restaurant,Quận 1,90 Nguyễn Siêu,0971617990,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-08-13
+OUT_1525,Sushi Hokkaido Sachi - Crescent mall,10.7281671,106.7180317,Restaurant,Quận 3,23 Đường số 41,0982150317,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-08-27
+OUT_1036,Nhà Hàng Ba Con Cừu,10.7724078,106.6794545,Restaurant,Quận 10,50 Cao Thắng,0900499154,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-09-14
+OUT_1541,Nhà Hàng Veggie Saigon,10.7634372,106.6958344,Restaurant,Quận 3,23 Đường số 20,0985992816,Active,Verified,Sales Rep Audit,Team_Central_1,Tier A,2026-08-17
+OUT_1171,Nhà Hàng L'usine,10.8042358,106.7372651,Restaurant,quận 7,22 Đường số 27,0974949375,Active,Verified,Distributor Data,Team_South,Tier B,2026-06-15
+OUT_1655,Bạn Tôi,10.7934301,106.7031269,Restaurant,Thành phố Thủ Đức,147 Đường số 42,0836742662,Active,Pending Verification,Field Survey,Team_East,Tier B,2026-10-30
+OUT_1688,Phúc Long - Huỳnh Thúc Kháng,10.7730412,106.7025775,Cafe,Thủ Đức,294 Đường số 18,0912153539,Active,Verified,Field Survey,Team_East,Tier B,2026-07-11
+OUT_1680,Bún bò Huế 0 Hương,10.7560915,106.6783334,Restaurant,Quận 10,63 Đường Lê Hồng Phong,0973428013,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-07-01
+OUT_1753,Nhà Hàng Hoằng Long,10.7768249,106.703813,Restaurant,Quận 3,320 Đường số 36,0830320320,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-11-08
+OUT_1096,Bánh cuốn Quảng Đông,10.7548368,106.6747089,Restaurant,Thành phố Thủ Đức,73 Đường Phan Văn Trị,0326046618,Active,Verified,Field Survey,Team_East,Tier C,2026-10-29
+OUT_1564,Nhà Hàng Alibaba,10.7743953,106.7040996,Restaurant,Quận 3,226 Hung Vuong,0324420949,Active,Pending Verification,Field Survey,Team_Central_1,Tier A,2026-08-19
+OUT_1241,Buffet Chay Lẩu Alacarte Bảo Anh,10.789023,106.7531855,Restaurant,Quận Bình Thạnh,322 Thân Văn Nhiếp,0902933334,Active,Pending Verification,Sales Rep Audit,Team_East,Tier C,2026-07-24
+OUT_1575,Phúc Long,10.7926066,106.6946262,Cafe,Quận 1,41 Trần Quang Khải,0985441496,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-06-12
+OUT_1461,Katinat,10.7711456,106.7025259,Cafe,Quận 4,312 Đường Hàm Nghi,0917908641,Active,Verified,Field Survey,Team_South,Tier A,2026-11-19
+OUT_1554,Nhà Hàng Riêu Cá Chép,10.782478,106.705707,Restaurant,Quận 1,,0832386562,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-08-08
+OUT_1705,Nhà Hàng Chay Làng Ta,10.7827784,106.6839637,Restaurant,quận 3,163 Đường số 17,0836986407,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-07-08
+OUT_1207,Phong Hoa,10.7555279,106.6763347,Cafe,Quận 1,40 Đường Huỳnh Mẫn Đạt,0915704331,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-09-05
+OUT_1393,Oasis,10.7927768,106.6709813,Restaurant,Quận Phú Nhuận,100 Hẻm 176 Lê Văn Sỹ,0976556472,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-10-13
+OUT_1398,Nhà Hàng Chay Sân Mây,10.7719542,106.6723403,Restaurant,Quận 3,237 Đường số 30,0917545588,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-10-21
+OUT_1681,The Coffee House,10.8030231,106.6605047,Cafe,Quận 5,103 Thăng Long,0835927125,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-10-31
+OUT_1218,Cà Phê Long Béo,10.7369094,106.7073344,Cafe,Quận 3,,0831467741,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-09-29
+OUT_1005,Quán Bar LAC Brewery,10.7732484,106.6959166,Bar,Quận 5,259 Đường số 43,0325625881,Active,Verified,Field Survey,Team_West,Tier A,2026-09-28
+OUT_1643,Việt Coffee,10.7646462,106.7055599,Cafe,Binh Thanh,14 Đường số 3,0932310592,Active,Verified,Field Survey,Team_East,Tier B,2026-07-23
+OUT_1717,Cà Phê Ngọt,10.7563833,106.7032344,Cafe,Quận 7,94 Đường số 24,0989363123,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-11-15
+OUT_1613,Vĩnh Khang,10.7528431,106.6520677,Cafe,Quận Tân Bình,,0839956353,Active,Verified,Distributor Data,Team_North,Tier A,2026-09-04
+OUT_1547,Cơm Chay Thiên Ý,10.7299304,106.6763068,Restaurant,Quận 5,,0919196570,Active,Verified,Field Survey,Team_West,Tier A,2026-06-25
+OUT_1099,Bách Việt 9999,10.8277812,106.7313756,Cafe,Quận Phú Nhuận,47 Đường số 4,0704715437,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-06-17
+OUT_1574,YoshiYoshi Coffee & Tea,10.767876,106.6993584,Cafe,Quận 1,218 Calmette,0328018569,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-07-17
+OUT_1407,Thiên Thiên,10.7526698,106.6642066,Restaurant,Quận 4,71 Đường Tản Đà,0931643347,Active,Verified,Field Survey,Team_South,Tier B,2026-07-15
+OUT_1503,Pingu's Burger,10.8092321,106.7339752,Restaurant,Quận Bình Thạnh,260 Đường Số 2,0909733977,Active,Verified,Field Survey,Team_East,Tier A,2026-06-23
+OUT_1048,Hoi Quan Bach Moc,10.7306095,106.727842,Restaurant,Quận Tân Bình,182 Đường số 38,0935871397,Active,Pending Verification,Distributor Data,Team_North,Tier B,2026-09-28
+OUT_1033,Cục Gạch Quán,10.7929997,106.6889296,Restaurant,Quận 7,44 Đường Ðặng Tất,0908267734,Active,Verified,Field Survey,Team_South,Tier B,2026-07-22
+OUT_1201,Cà Phê 77,10.7920273,106.6444373,Cafe,Quận 5,203 Đường số 4,0931851569,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-08-21
+OUT_1135,Cà Phê Bệt,10.7798794,106.6983062,Cafe,Quận 1,146 Đường số 36,0989481260,Active,Verified,Sales Rep Audit,Team_Central_1,Tier C,2026-11-09
+OUT_1028,Chè Liên,10.7926547,106.6395763,Restaurant,Quận 7,192 Đường số 27,0984198665,Active,Verified,Distributor Data,Team_South,Tier B,2026-10-13
+OUT_1707,Lạc Thảo Quán Bình Dân,10.751774,106.71409,Restaurant,Quận 1,38 Trần Xuân Soạn,0831357852,Active,Pending Verification,Field Survey,Team_Central_1,Tier A,2026-08-31
+OUT_1231,Tiến Thịnh,10.7556828,106.6779821,Cafe,Quận Phú Nhuận,238 Đường Phan Văn Trị,0702996065,Active,Verified,Distributor Data,Team_Central_2,Tier B,2026-10-15
+OUT_1490,Nước đá sỉ lẻ,10.753366,106.6638938,Cafe,Quận 10,181 Đường Nguyễn Trãi,0833660965,Active,Verified,Sales Rep Audit,Team_West,Tier B,2026-09-10
+OUT_1379,Nhà Hàng Seoul Garden,10.7706334,106.6698981,Restaurant,Quận 7,23 Đường số 21,0988947697,Active,Pending Verification,Sales Rep Audit,Team_South,Tier B,2026-11-11
+OUT_1289,The Joi Factory,10.765341,106.6865537,Restaurant,Quận 4,,0988837550,Active,Verified,Field Survey,Team_South,Tier C,2026-07-30
+OUT_1419,Lys Saigon,10.7742524,106.7048234,Restaurant,Quận Tân Bình,83 Đồng Khởi,0833502080,Active,Verified,Distributor Data,Team_North,Tier B,2026-08-06
+OUT_1675,Cà Phê 121,10.7784985,106.6727485,Cafe,Quận 3,327 Hoà Hưng,0700310890,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-03
+OUT_1392,Nhà Hàng Chay Mọc Nhiên,10.7868811,106.6819034,Restaurant,Quận 4,241 Đường số 38,0987955276,Active,Verified,Field Survey,Team_South,Tier B,2026-10-27
+OUT_1593,Pizza Hut,10.7972201,106.6907929,Unknown,Quận Phú Nhuận,180 Phan Xích Long,0970937618,Active,Pending Verification,Field Survey,Team_Central_2,Tier C,2026-09-28
+OUT_1499,Creamy,10.793759,106.687577,Cafe,Quận Tân Bình,185 Đường số 25,0708926860,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-10-12
+OUT_1139,Fingerprint Chay,10.7914564,106.7049406,Restaurant,Quận 1,250 Nguyễn Thị Minh Khai,0901751863,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-07-13
+OUT_1063,Cà Phê Hùng,10.8222843,106.7179174,Street Food,Quận 5,115 Đường số 17,,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-08-11
+OUT_1472,Cà Phê The Banned,10.7745147,106.6682446,Cafe,Quận Tân Bình,328 Đường số 41,0983940701,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-06-15
+OUT_1648,Trung Nguyên Legend,10.7439135,106.7327764,Cafe,Quận 4,,0939751702,Active,Verified,Distributor Data,Team_South,Tier C,2026-06-12
+OUT_1129,Kokoro,10.7977495,106.7316497,Cafe,Quận Bình Thạnh,111 Đường số 10,,Active,Verified,Field Survey,Team_East,Tier C,2026-09-06
+OUT_1779,Katinat Cộng Hòa,10.8009983,106.6606004,Cafe,Quận 4,  258 Đường số 6 ,0907784873 ,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-07-12
+OUT_1521,Cà Nhà - Viet Nam Specialty Coffee,10.7941933,106.6848237,Cafe,Quận 5,54 Trường Sa,,Active,Pending Verification,Distributor Data,Team_West,Tier B,2026-09-06
+OUT_1065,Nhà Hàng Trang Đỏ,10.797848,106.714665,Restaurant,Quận Bình Thạnh,180 Đường số 8,0706882634,Active,Verified,Field Survey,Team_East,Tier C,2026-11-16
+OUT_1015,Starbucks,10.773341,106.703915,Cafe,Quận 5,232 Đường số 17,0328523986,Active,Verified,Field Survey,Team_West,Tier A,2026-06-01
+OUT_1157,Quán Chill Skybar,10.7704248,106.6943359,Bar,Quận 4,4 Đường số 49,0708486661,Active,Verified,Distributor Data,Team_South,Tier B,2026-07-26
+OUT_1041,Gờ Café,10.7932526,106.6875119,Cafe,Quận 3,301 Trần Quý Khoách,0970463745,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-11-10
+OUT_1493,Cà Phê Đá (Đã đóng cửa),10.7805631,106.6975344,Cafe,Quận Tân Bình,214 Alexandre de Rhodes,0908680347,Active,Pending Verification,Field Survey,Team_North,Tier C,2026-07-14
+OUT_1380,Starbucks,10.7756464,106.7005642,Cafe,Quận Tân Bình,211 Đường số 48,0975779071,Active,Verified,Field Survey,Team_North,Tier A,2026-07-15
+OUT_1188,Nhà Hàng Nướng BBQ,10.8042803,106.7378597,Restaurant,Thành phố Thủ Đức,88 Đường số 41,0830662532,Active,Verified,Distributor Data,Team_East,Tier C,2026-11-18
+OUT_1217,HÀ - Acoustic Coffee,10.797859,106.6727978,Cafe,Quận 5,76 178A Nguyễn Trọng Tuyển,0833103241,Active,Verified,Field Survey,Team_West,Tier C,2026-11-15
+OUT_1053,Every Half Coffee Roasters - Nguyễn Thị Diệu,10.7750555,106.6876515,Cafe,Quận 7,308 Nguyễn Thị Diệu,0932656766,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-11-07
+OUT_1338,Bún Bò O Huyền,10.7407628,106.620543,Restaurant,Quận 10,330 Lê Công Phép,0911080996,Active,Verified,Distributor Data,Team_West,Tier B,2026-11-17
+OUT_1296,Cà Phê Stop,10.7857002,106.7005878,Cafe,Quận 1,268 Đường số 4,0709782922,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-07-24
+OUT_1702,Lẩu Naro,10.790461,106.6843176,Restaurant,Q3,295 Đường số 21,0326165565,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-06-26
+OUT_1252,An An,10.7521298,106.660964,Restaurant,Quận 5,,0975346554,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-11-19
+OUT_1462,Tartine,10.7774919,106.7575808,Cafe,Thu Duc,271 Đường số 40,0708622783,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-11
+OUT_1456,Kim Phát (Đã đóng cửa),10.7528946,106.6597229,Restaurant,Quận Tân Bình,10 Đường Nguyễn Trãi,0919409610,Active,Verified,Field Survey,Team_North,Tier B,2026-05-26
+OUT_1798,Quán Chay Hoàng Lan,10.8091374,106.6890004,Restaurant,quận 7,  304 Nguyễn Văn Đậu ,0916845775 ,Active,Verified,Distributor Data,Team_South,Tier B,2026-11-10
+OUT_1270,Chè Sầu riêng Simi,10.7542744,106.6670036,Restaurant,Quận 3,237 Đường Nguyễn Trãi,0917393483,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-07-20
+OUT_1202,Ngọc Sương Marina,10.7807981,106.6918205,Restaurant,Quận 5,159 Nguyễn Ðình Chiểu,0915452267,Active,Verified,Field Survey,Team_West,Tier A,2026-05-29
+OUT_1162,King Ẩm Thực,10.7425162,106.6357323,Restaurant,Quận Tân Bình,195 Đường số 43,0328842524,Active,Verified,Distributor Data,Team_North,Tier C,2026-10-31
+OUT_1556,Surf Shak (burger),10.8056356,106.7321369,Restaurant,Quận Bình Thạnh,25 Đường số 35,0702126796,Active,Verified,Field Survey,Team_East,Tier C,2026-10-29
+OUT_1402,Cà Phê Bookworm,10.7663169,106.6913488,Cafe,Quận Tân Bình,271 Ðỗ Quang Ðẩu,0701125355,Active,Verified,Sales Rep Audit,Team_North,Tier C,2026-11-20
+OUT_1703,Tâm Ký,10.787707,106.6410323,Restaurant,Quận 4,38 Âu Cơ,0903334911,Active,Verified,Field Survey,Team_South,Tier B,2026-07-31
+OUT_1477,Dân Ích,10.7531284,106.6585186,Restaurant,Quận 5,256 Đường Châu Văn Liêm,0324384046,Active,Verified,Field Survey,Team_West,Tier B,2026-08-25
+OUT_1106,Cà Phê StoryM (Đã đóng cửa),10.7939098,106.6895222,Cafe,Quận Tân Bình,81 Trần Nhật Duật,0934342661,Active,Verified,Field Survey,Team_North,Tier B,2026-07-13
+OUT_1566,Garage Coffee,10.8277053,106.6867063,Cafe,Quận 4,174 Đường số 22,0904712814,Active,Verified,Distributor Data,Team_South,Tier A,2026-07-10
+OUT_1390,Cosmic Cafe,10.7723124,106.722813,Cafe,Quận 4,,0835003691,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-07-15
+OUT_1002,Hạt Cafe Quán,10.7550374,106.6922329,Cafe,Dist. 1,,0709078447,Active,Verified,Sales Rep Audit,Team_Central_1,Tier B,2026-06-30
+OUT_1768,MÌ Ý A.HOÀI - Do Chính A.HOÀI Đảm Trách,10.7607761,106.690652,Restaurant,Quận 7,  231 Đường số 48 ,0985637183 ,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-08-11
+OUT_1562,Bánh Mì Hòa Mã,10.7703143,106.6817473,Restaurant,Quận Tân Bình,224 Cao Thắng,0831894905,Active,Verified,Field Survey,Team_North,Tier C,2026-07-30
+OUT_1081,Phuc Long,10.7965847,106.6468685,Cafe,Quận 4,337 Đường số 38,0933398454,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-10-19
+OUT_1206,Bột Chiên Thị Nghè,10.7915073,106.7099994,Restaurant,Quận 10,87 Đường số 37,0832513552,Active,Pending Verification,Field Survey,Team_West,Tier B,2026-08-12
+OUT_1035,Highlands Coffee,10.8077793,106.6403169,Unknown,Quận 5,222 Đường số 42,0936206724,Active,Verified,Sales Rep Audit,Team_West,Tier A,2026-06-14
+OUT_1509,Nôm Cultural Dining,10.7940474,106.6896202,Restaurant,Quận Tân Bình,23 Đường số 18,0326168147,Active,Verified,Sales Rep Audit,Team_North,Tier A,2026-10-24
+OUT_1428,Cà Phê HMY,10.7923981,106.7061022,Cafe,Quận 4,179 Đường số 41,0320249163,Active,Verified,Sales Rep Audit,Team_South,Tier C,2026-08-21
+OUT_1455,Cà Phê Mocking Bird,10.7696893,106.704129,Cafe,Binh Thanh,41 Tôn Thất Ðạm,0709315727,Active,Verified,Field Survey,Team_East,Tier B,2026-05-31
+OUT_1367,Highlands Coffee (Đã đóng cửa),10.7281874,106.7182205,Cafe,Quận 4,339 Đường số 25,0834495621,Active,Pending Verification,Sales Rep Audit,Team_South,Tier C,2026-06-03
+OUT_1092,Lẩu Chay Diệu Tài,10.7497784,106.6752706,Restaurant,Quận Bình Thạnh,,0971142626,Active,Verified,Distributor Data,Team_East,Tier C,2026-09-14
+OUT_1340,Demi Coffee & Tea,10.7908769,106.664722,Cafe,Q1,66 Hoàng Sa,0326394278,Active,Pending Verification,Field Survey,Team_Central_1,Tier A,2026-09-16
+OUT_1565,Bagel Brothers,10.7698526,106.6963743,Cafe,Quận Phú Nhuận,198 Đường số 48,0980792904,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-06-01
+OUT_1346,Bến Thành,10.783112,106.6980911,Bar,Quận Tân Bình,217 Đường số 27,0936659184,Active,Verified,Distributor Data,Team_North,Tier C,2026-11-13
+OUT_1242,Tartine,10.788584,106.6998954,Restaurant,Quận Phú Nhuận,162 Nguyễn Ðình Chiểu,0708007229,Active,Verified,Sales Rep Audit,Team_Central_2,Tier A,2026-11-16
+OUT_1014,Quan Bui,10.7808839,106.7063054,Restaurant,Quận 3,221 Đường số 23,0989912165,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-07-17
+OUT_1316,Highlands Coffee,10.7882519,106.6852952,Cafe,Thành phố Thủ Đức,198 Đường số 27,0905616484,Active,Verified,Distributor Data,Team_East,Tier B,2026-10-11
+OUT_1601,諭吉ラーメン,10.7798854,106.7056858,Restaurant,Quận Tân Bình,30 Đường số 36,,Active,Pending Verification,Field Survey,Team_North,Tier C,2026-06-20
+OUT_1388,The Coffee House,10.7548096,106.6784095,Cafe,Q.1,120 Đường Trần Hưng Ðạo,0703920867,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-09-08
+OUT_1274,Nhà hàng Ocean Palace,10.7873615,106.704498,Restaurant,Quận Phú Nhuận,231 Lê Duẩn,0834470120,Active,Verified,Sales Rep Audit,Team_Central_2,Tier C,2026-11-17
+OUT_1167,Nhà Hàng Thái Hjh Basiroh,10.7717555,106.6969429,Restaurant,Quận Phú Nhuận,343 Nguyễn An Ninh,0932086353,Active,Pending Verification,Field Survey,Team_Central_2,Tier C,2026-06-24
+OUT_1794,Cà Phê City House,10.8241386,106.688439,Cafe,Quận 7,  337 Đường số 1 ,0325110475 ,Active,Verified,Distributor Data,Team_South,Tier B,2026-06-30
+OUT_1647,Cà Phê Today,10.7884038,106.6580522,Cafe,Quận Tân Bình,199 Bành Văn Trân,0908854749,Active,Pending Verification,Distributor Data,Team_North,Tier A,2026-07-15
+OUT_1485,Cô Cư Chè quán,10.7526499,106.6548663,Restaurant,Quận 10,74 Đường Nguyễn Trãi,0909949993,Active,Verified,Distributor Data,Team_West,Tier C,2026-08-28
+OUT_1783,Qúan Chay Liên Yến,10.7823261,106.6796323,Restaurant,Q1,  305 Đường số 43 ,0836184723 ,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-06-23
+OUT_1505,Beo Oi! - Mon Ngon Ha Noi,10.7852678,106.7011105,Restaurant,Thành phố Thủ Đức,284 Đường số 19,,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-21
+OUT_1244,Nhà Hàng Cơm Quê Mười Khó,10.7788584,106.6909072,Restaurant,Quận 3,226 Đường số 34,0327437489,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-06-25
+OUT_1567,Chasing,10.7527983,106.6678,Cafe,Quận Phú Nhuận,96 Đường Trần Phú,,Active,Verified,Field Survey,Team_Central_2,Tier C,2026-08-10
+OUT_1563,Ẩm Thực Chay Chân Nhu II,10.7650979,106.6948465,Restaurant,Quận 5,205 Đường số 31,0907787956,Active,Verified,Field Survey,Team_West,Tier A,2026-11-02
+OUT_1687,Phát Thành,10.7547551,106.6743303,Restaurant,Dist. 1,284 Đường Phan Văn Trị,0838112669,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-06-29
+OUT_1190,Phở Hùng,10.7232127,106.7100203,Restaurant,Quận 5,236 Đường số 43,0974768701,Active,Verified,Field Survey,Team_West,Tier A,2026-06-07
+OUT_1700,Starbucks,10.7974626,106.6900114,Cafe,Thành phố Thủ Đức,211 Phan Xích Long,0839695450,Active,Verified,Field Survey,Team_East,Tier C,2026-09-20
+OUT_1476,Nhà Hàng Asian Kitchen,10.7683337,106.6940202,Restaurant,Thành phố Thủ Đức,57 Hẻm 40 Bùi Viện,,Active,Pending Verification,Sales Rep Audit,Team_East,Tier B,2026-05-27
+OUT_1682,Tâm Vị,10.7820898,106.6880257,Restaurant,Quận 3,72 Tú Xương,0706383615,Active,Verified,Field Survey,Team_Central_1,Tier C,2026-10-03
+OUT_1511,Yukii,10.7532856,106.6688433,Cafe,Quận 7,199 Đường Trần Phú,0979019817,Active,Pending Verification,Distributor Data,Team_South,Tier B,2026-08-18
+OUT_1059,Dân Ích,10.753143,106.658397,Restaurant,Quận 1,109 Đường Nguyễn Trãi,0707383028,Active,Pending Verification,Field Survey,Team_Central_1,Tier C,2026-08-11
+OUT_1475,COFFEE BEAN & TEA LEAFS,10.7668888,106.6941819,Cafe,Quận 1,33 Đường Trần Hưng Ðạo,0933878003,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-07-31
+OUT_1561,Nhà Hàng Margherita,10.768706,106.6942217,Restaurant,Q.1,189 Đường Phạm Ngũ Lão,0987818913,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-09-28
+OUT_1748,燕ちゃん,10.7798328,106.7053568,Bar,Thành phố Thủ Đức,304 Đường số 9,0704652809,Active,Verified,Distributor Data,Team_East,Tier B,2026-08-08
+OUT_1253,Nhà Hàng Món Huế,10.7890805,106.6905927,Restaurant,Quận Tân Bình,181 Đường số 6,,Active,Verified,Sales Rep Audit,Team_North,Tier B,2026-10-26
+OUT_1022,Kala Coffee & Tea,10.8009981,106.6430537,Cafe,Quận 5,49 Núi Thành,0933091307,Active,Pending Verification,Field Survey,Team_West,Tier C,2026-10-21
+OUT_1314,Yummy Cơm Gà Hải Nam,10.8027151,106.7288423,Restaurant,Quận Bình Thạnh,286 Xuân Thuỷ,0325543987,Active,Pending Verification,Sales Rep Audit,Team_East,Tier B,2026-08-21
+OUT_1460,Buffalo Wild Wings,10.8038845,106.7371802,Restaurant,Quận 7,281 Đường số 12,0913646225,Active,Verified,Field Survey,Team_South,Tier B,2026-08-25
+OUT_1161,Xanh Lá La - Matcha and More,10.7366158,106.6573356,Cafe,Quận 4,67 Cư xá Bùi Minh Trực,0982102027,Active,Pending Verification,Field Survey,Team_South,Tier B,2026-11-10
+OUT_1277,Papa Dashi,10.7519249,106.6621325,Restaurant,Quận Bình Thạnh,97 Đường Trần Hưng Ðạo,0325216674,Active,Verified,Distributor Data,Team_East,Tier B,2026-09-02
+OUT_1192,Highlands Coffee,10.7222772,106.7128058,Cafe,Quận 5,46 Đường số 28,0906578759,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-07-27
+OUT_1386,Mì Gia Tâm Đinh,10.7551355,106.6763476,Restaurant,Quận 7,146 Đường Phan Văn Trị,0839080759,Active,Verified,Sales Rep Audit,Team_South,Tier B,2026-08-21
+OUT_1414,Nhà Hàng Tao Li,10.721758,106.7118871,Restaurant,Quận 10,53 Đường số 22,0980649308,Active,Verified,Distributor Data,Team_West,Tier B,2026-06-13
+OUT_1492,Quán Ăn Hủ Tiếu Nam Vang Hà Kiều,10.8361498,106.6874281,Restaurant,Quận 7,293 Đường số 30,0917703886,Active,Verified,Distributor Data,Team_South,Tier A,2026-10-29
+OUT_1344,Cà Phê VivaStar,10.7646007,106.6630673,Cafe,Quận 3,331 Đường Bà Hạt,0970385677,Active,Pending Verification,Field Survey,Team_Central_1,Tier B,2026-10-08
+OUT_1770,HEI GARDEN,10.8193005,106.7007292,Restaurant,Quận Tân Bình,  264 Đường số 11 ,0936292518 ,Active,Pending Verification,Distributor Data,Team_North,Tier B,2026-10-31
+OUT_1309,Lau Nam Chay,10.7924146,106.6945777,Street Food,Quận 3,332 Đường số 16,0700648422,Active,Verified,Distributor Data,Team_Central_1,Tier B,2026-09-07
+OUT_1662,Quán Bar The Sun,10.7682598,106.6941237,Cafe,Quận 4,89 Đường số 30,0831959796,Active,Verified,Sales Rep Audit,Team_South,Tier A,2026-08-12
+OUT_1131,Thiên Hồng (Đã đóng cửa),10.7522001,106.6646303,Unknown,Quận Phú Nhuận,59 Đường Tản Đà,0976134074,Active,Verified,Field Survey,Team_Central_2,Tier B,2026-07-11
+OUT_1664,Cơm tấm Ngô Quyền,10.7525807,106.6658104,Restaurant,Quận 7,45 Đường Trần Hưng Ðạo,0939025725,Active,Verified,Field Survey,Team_South,Tier C,2026-07-06
+OUT_1100,Yolo Farm 2,10.7557579,106.6751046,Cafe,Quận Bình Thạnh,272 Đường Nguyễn Trãi,0977124065,Active,Verified,Field Survey,Team_East,Tier A,2026-10-05
+OUT_1373,24h,10.8207525,106.6372396,Cafe,quận 7,79 Đường số 37,0909883920,Active,Verified,Field Survey,Team_South,Tier B,2026-10-24
+OUT_1088,Chay An Phúc,10.7871298,106.6759435,Bistro,Quận 1,180 Đường số 19,0979685621,Active,Verified,Distributor Data,Team_Central_1,Tier C,2026-07-19
+OUT_1459,Đồng Xanh Coffee,10.7551145,106.6920512,Cafe,Quận 3,77 Đường số 11,0935832067,Active,Verified,Field Survey,Team_Central_1,Tier B,2026-09-02
+OUT_1331,Quán Ốc 379,10.763205,106.6655274,Restaurant,Quận 10,201 Đường Vĩnh Viễn,0914141397,Active,Verified,Field Survey,Team_West,Tier B,2026-08-07
+OUT_1215,Nhà Hàng Việt Phố,10.78353,106.688071,Restaurant,Quận 3,180 Đường số 18,0983106987,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-05-27
+OUT_1467,Big Bowl,10.8170498,106.6636524,Restaurant,Quận Bình Thạnh,155 Đường số 32,0830335211,Active,Verified,Field Survey,Team_East,Tier B,2026-08-10
+OUT_1122,Cà Phê Mang Đi Effoc,10.7923469,106.6814737,Cafe,Quận 3,339 Đường số 32,0989912513,Active,Pending Verification,Sales Rep Audit,Team_Central_1,Tier B,2026-08-02
+OUT_1615,Nhà Hàng Ethiopia Sara,10.776317,106.7239469,Restaurant,Bình Thạnh,18 Đường số 3,0971797062,Active,Pending Verification,Sales Rep Audit,Team_East,Tier C,2026-09-05
+OUT_1021,ToCoToCo Tea,10.7707107,106.6693902,Cafe,Quận Tân Bình,213 Sư Vạn Hạnh,0970972896,Active,Verified,Distributor Data,Team_North,Tier B,2026-05-31
+OUT_1701,Phuc Long,10.7855259,106.6819458,Cafe,Thành phố Thủ Đức,210 Trần Quốc Thảo,0909025590,Active,Pending Verification,Distributor Data,Team_East,Tier B,2026-05-25
+OUT_1072,Thiện Quang 2,10.7839727,106.7054068,Restaurant,Quận 10,,0325609320,Active,Verified,Field Survey,Team_West,Tier B,2026-06-07
+OUT_1107,Thuận Tuấn,10.7854835,106.6813645,Restaurant,Quận Tân Bình,190 Đường số 7,0839796886,Active,Verified,Field Survey,Team_North,Tier B,2026-08-26
+OUT_1271,Brick & Barrel,10.769485,106.6979082,Restaurant,Quận 5,298 Calmette,0326420873,Active,Verified,Sales Rep Audit,Team_West,Tier C,2026-09-23
+OUT_1436,Quán Chay Và,10.7983858,106.6737883,Cafe,Quận 1,198 Nguyễn Trọng Tuyển,0327086209,Active,Pending Verification,Distributor Data,Team_Central_1,Tier B,2026-08-27
+OUT_1103,Hải Phòng Quán,10.7945924,106.741244,Restaurant,Quận 7,215 Trần Lựu,0987935646,Active,Verified,Field Survey,Team_South,Tier B,2026-08-04
