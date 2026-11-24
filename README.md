@@ -92,7 +92,7 @@ All rates use total rows in `Outlets` (**800 records**) as the denominator unles
 ![Page 3 - Field Operations & Issue Tracking](images/page3_field_operations.jpg)
 * **Observations:** Within the simulated operational dataset, Team_Central_1 has the largest pending verification backlog (50 records, including 11 Tier A outlets), followed by Team_West (36 records, including 6 Tier A outlets). The overall issue resolution rate is 33.3%, calculated from the simulated Data_Issue_Log. Monthly record refresh trends (May–November 2026) track verification progress across all 800 records.
 * **Analytical Commentary:** Monitoring pending verification records by surveyor team and potential tier helps illustrate how an operations team could identify workload concentration and prioritize follow-up activities, alongside a prioritized action table of unverified Tier A outlets.
-* **Proposed Monitoring Rule:** A conceptual 7-day verification target could be introduced for pending Tier A outlets. This is a proposed portfolio governance benchmark, not an official HEINEKEN SLA. Actual SLA monitoring would require reliable verification request and completion timestamps.
+* **Proposed Monitoring Rule:** A conceptual 7-day verification target could be introduced for pending Tier A outlets. This is a proposed portfolio governance benchmark, not an official or industry-standard SLA. Actual SLA monitoring would require reliable verification request and completion timestamps.
 
 ## 6. Repository Structure
 
