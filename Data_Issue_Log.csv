@@ -1,0 +1,437 @@
+﻿Log_ID,Outlet_ID,Issue_Type,Description,Detected_Date,Resolved_Status
+ERR_0001,OUT_1601,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0002,OUT_1243,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0003,OUT_1505,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0004,OUT_1521,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0005,OUT_1517,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0006,OUT_1395,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0007,OUT_1118,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0008,OUT_1276,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0009,OUT_1063,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0010,OUT_1326,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0011,OUT_1476,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0012,OUT_1567,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0013,OUT_1417,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0014,OUT_1068,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0015,OUT_1496,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0016,OUT_1030,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0017,OUT_1418,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0018,OUT_1649,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0019,OUT_1240,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0020,OUT_1020,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0021,OUT_1568,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0022,OUT_1692,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0023,OUT_1104,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0024,OUT_1253,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0025,OUT_1569,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0026,OUT_1668,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0027,OUT_1129,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0028,OUT_1312,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0029,OUT_1582,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0030,OUT_1457,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0031,OUT_1086,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0032,OUT_1652,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0033,OUT_1513,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0034,OUT_1209,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0035,OUT_1146,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0036,OUT_1383,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0037,OUT_1554,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0038,OUT_1173,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0039,OUT_1252,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0040,OUT_1551,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0041,OUT_1434,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0042,OUT_1463,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0043,OUT_1043,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0044,OUT_1002,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0045,OUT_1636,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0046,OUT_1297,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0047,OUT_1669,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0048,OUT_1172,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0049,OUT_1001,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0050,OUT_1062,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0051,OUT_1494,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0052,OUT_1280,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0053,OUT_1613,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0054,OUT_1257,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0055,OUT_1697,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0056,OUT_1390,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0057,OUT_1360,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0058,OUT_1648,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0059,OUT_1218,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0060,OUT_1600,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0061,OUT_1523,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0062,OUT_1289,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0063,OUT_1047,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0064,OUT_1166,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0065,OUT_1547,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0066,OUT_1577,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0067,OUT_1072,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0068,OUT_1308,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0069,OUT_1092,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0070,OUT_1405,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0071,OUT_1716,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0072,OUT_1126,Missing Contact/Address,Thiếu số điện thoại hoặc địa chỉ chi tiết,2026-11-21,Open
+ERR_0073,OUT_1138,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0074,OUT_1716,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0075,OUT_1546,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0076,OUT_1285,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0077,OUT_1434,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0078,OUT_1214,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0079,OUT_1615,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0080,OUT_1497,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0081,OUT_1319,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0082,OUT_1679,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0083,OUT_1340,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0084,OUT_1634,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0085,OUT_1267,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0086,OUT_1705,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0087,OUT_1455,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0088,OUT_1280,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0089,OUT_1246,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0090,OUT_1659,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0091,OUT_1321,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0092,OUT_1339,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0093,OUT_1747,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0094,OUT_1462,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0095,OUT_1598,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0096,OUT_1325,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0097,OUT_1013,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0098,OUT_1688,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0099,OUT_1133,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0100,OUT_1643,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0101,OUT_1002,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0102,OUT_1611,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0103,OUT_1473,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0104,OUT_1003,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0105,OUT_1009,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0106,OUT_1672,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0107,OUT_1171,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0108,OUT_1410,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0109,OUT_1751,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0110,OUT_1694,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0111,OUT_1481,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0112,OUT_1387,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0113,OUT_1530,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0114,OUT_1075,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0115,OUT_1651,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0116,OUT_1653,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0117,OUT_1067,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0118,OUT_1687,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0119,OUT_1029,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0120,OUT_1671,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0121,OUT_1449,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0122,OUT_1702,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0123,OUT_1126,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0124,OUT_1349,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0125,OUT_1373,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0126,OUT_1602,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0127,OUT_1356,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0128,OUT_1384,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0129,OUT_1175,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0130,OUT_1704,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0131,OUT_1674,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0132,OUT_1463,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0133,OUT_1368,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0134,OUT_1195,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0135,OUT_1673,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0136,OUT_1656,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0137,OUT_1224,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0138,OUT_1019,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0139,OUT_1749,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0140,OUT_1721,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0141,OUT_1683,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0142,OUT_1090,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0143,OUT_1618,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0144,OUT_1625,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0145,OUT_1310,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0146,OUT_1642,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0147,OUT_1238,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0148,OUT_1487,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0149,OUT_1361,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0150,OUT_1037,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0151,OUT_1639,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0152,OUT_1622,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0153,OUT_1610,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0154,OUT_1718,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0155,OUT_1007,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0156,OUT_1203,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0157,OUT_1388,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0158,OUT_1111,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0159,OUT_1283,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0160,OUT_1561,Invalid District Format,Tên quận viết tắt hoặc sai quy chuẩn hệ thống,2026-11-21,Open
+ERR_0161,OUT_1593,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0162,OUT_1128,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0163,OUT_1088,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0164,OUT_1063,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0165,OUT_1035,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0166,OUT_1387,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0167,OUT_1321,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0168,OUT_1711,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0169,OUT_1067,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0170,OUT_1131,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0171,OUT_1064,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0172,OUT_1453,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0173,OUT_1057,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0174,OUT_1309,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0175,OUT_1626,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0176,OUT_1642,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0177,OUT_1443,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0178,OUT_1068,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0179,OUT_1105,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0180,OUT_1694,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0181,OUT_1058,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0182,OUT_1573,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0183,OUT_1054,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0184,OUT_1302,Invalid Channel,Loại hình điểm bán không nằm trong danh mục chuẩn,2026-11-21,Open
+ERR_0185,OUT_1106,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0186,OUT_1013,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0187,OUT_1610,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0188,OUT_1731,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0189,OUT_1070,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0190,OUT_1608,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0191,OUT_1199,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0192,OUT_1587,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0193,OUT_1130,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0194,OUT_1653,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0195,OUT_1522,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0196,OUT_1263,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0197,OUT_1364,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0198,OUT_1432,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0199,OUT_1493,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0200,OUT_1743,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0201,OUT_1636,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0202,OUT_1456,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0203,OUT_1191,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0204,OUT_1249,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0205,OUT_1141,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0206,OUT_1046,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0207,OUT_1062,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0208,OUT_1131,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0209,OUT_1320,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0210,OUT_1599,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0211,OUT_1447,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0212,OUT_1526,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0213,OUT_1668,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0214,OUT_1367,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0215,OUT_1319,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0216,OUT_1598,Status Mismatch,Điểm bán đã ngừng hoạt động thực tế nhưng trạng thái vẫn là Active,2026-11-21,Open
+ERR_0217,OUT_1555,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0218,OUT_1150,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0219,OUT_1151,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0220,OUT_1481,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0221,OUT_1317,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0222,OUT_1618,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0223,OUT_1352,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0224,OUT_1299,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0225,OUT_1378,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0226,OUT_1009,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0227,OUT_1531,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0228,OUT_1601,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0229,OUT_1674,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0230,OUT_1695,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0231,OUT_1149,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0232,OUT_1059,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0233,OUT_1244,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0234,OUT_1520,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0235,OUT_1573,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0236,OUT_1056,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0237,OUT_1433,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0238,OUT_1353,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0239,OUT_1201,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0240,OUT_1206,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0241,OUT_1656,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0242,OUT_1207,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0243,OUT_1071,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0244,OUT_1350,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0245,OUT_1194,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0246,OUT_1684,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0247,OUT_1488,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0248,OUT_1712,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0249,OUT_1709,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0250,OUT_1479,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0251,OUT_1615,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0252,OUT_1710,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0253,OUT_1340,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0254,OUT_1593,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0255,OUT_1580,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0256,OUT_1344,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0257,OUT_1631,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0258,OUT_1307,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0259,OUT_1429,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0260,OUT_1337,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0261,OUT_1167,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0262,OUT_1108,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0263,OUT_1466,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0264,OUT_1044,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0265,OUT_1508,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0266,OUT_1225,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0267,OUT_1004,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0268,OUT_1655,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0269,OUT_1229,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0270,OUT_1236,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0271,OUT_1478,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0272,OUT_1639,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0273,OUT_1219,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0274,OUT_1245,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0275,OUT_1493,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0276,OUT_1720,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0277,OUT_1385,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0278,OUT_1211,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0279,OUT_1410,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0280,OUT_1189,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0281,OUT_1007,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0282,OUT_1372,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0283,OUT_1011,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0284,OUT_1076,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0285,OUT_1367,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0286,OUT_1031,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0287,OUT_1569,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0288,OUT_1118,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0289,OUT_1146,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0290,OUT_1298,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0291,OUT_1451,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0292,OUT_1200,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0293,OUT_1647,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0294,OUT_1600,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0295,OUT_1369,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0296,OUT_1045,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0297,OUT_1687,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0298,OUT_1204,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0299,OUT_1203,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0300,OUT_1291,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0301,OUT_1179,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0302,OUT_1707,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0303,OUT_1269,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0304,OUT_1672,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0305,OUT_1348,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0306,OUT_1568,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0307,OUT_1252,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0308,OUT_1183,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0309,OUT_1734,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0310,OUT_1023,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0311,OUT_1181,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0312,OUT_1670,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0313,OUT_1104,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0314,OUT_1022,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0315,OUT_1141,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0316,OUT_1389,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0317,OUT_1114,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0318,OUT_1347,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0319,OUT_1216,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0320,OUT_1313,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0321,OUT_1468,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0322,OUT_1246,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0323,OUT_1379,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0324,OUT_1382,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0325,OUT_1176,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0326,OUT_1540,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0327,OUT_1701,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0328,OUT_1445,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0329,OUT_1067,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0330,OUT_1122,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0331,OUT_1148,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0332,OUT_1134,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0333,OUT_1195,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0334,OUT_1197,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0335,OUT_1546,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0336,OUT_1388,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0337,OUT_1384,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0338,OUT_1326,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0339,OUT_1614,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0340,OUT_1440,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0341,OUT_1251,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0342,OUT_1048,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0343,OUT_1602,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0344,OUT_1728,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0345,OUT_1549,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0346,OUT_1302,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0347,OUT_1153,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0348,OUT_1336,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0349,OUT_1254,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0350,OUT_1055,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0351,OUT_1287,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0352,OUT_1130,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0353,OUT_1521,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0354,OUT_1599,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0355,OUT_1501,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0356,OUT_1215,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0357,OUT_1084,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0358,OUT_1482,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0359,OUT_1644,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0360,OUT_1172,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0361,OUT_1620,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0362,OUT_1398,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0363,OUT_1522,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0364,OUT_1636,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0365,OUT_1511,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0366,OUT_1532,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0367,OUT_1476,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0368,OUT_1184,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0369,OUT_1330,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0370,OUT_1383,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0371,OUT_1539,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0372,OUT_1495,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0373,OUT_1507,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0374,OUT_1486,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0375,OUT_1275,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0376,OUT_1596,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0377,OUT_1411,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0378,OUT_1038,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0379,OUT_1213,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0380,OUT_1671,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0381,OUT_1208,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0382,OUT_1463,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0383,OUT_1241,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0384,OUT_1406,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0385,OUT_1224,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0386,OUT_1314,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0387,OUT_1436,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0388,OUT_1387,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0389,OUT_1161,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0390,OUT_1609,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0391,OUT_1261,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0392,OUT_1564,Pending Verification,Chưa được giám sát viên xác thực thông tin,2026-11-21,Open
+ERR_0393,OUT_1757,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0394,OUT_1758,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0395,OUT_1759,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0396,OUT_1760,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0397,OUT_1761,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0398,OUT_1762,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0399,OUT_1763,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0400,OUT_1764,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0401,OUT_1765,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0402,OUT_1766,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0403,OUT_1767,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0404,OUT_1768,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0405,OUT_1769,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0406,OUT_1770,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0407,OUT_1771,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0408,OUT_1772,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0409,OUT_1773,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0410,OUT_1774,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0411,OUT_1775,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0412,OUT_1776,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0413,OUT_1777,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0414,OUT_1778,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0415,OUT_1779,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0416,OUT_1780,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0417,OUT_1781,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0418,OUT_1782,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0419,OUT_1783,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0420,OUT_1784,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0421,OUT_1785,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0422,OUT_1786,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0423,OUT_1787,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0424,OUT_1788,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0425,OUT_1789,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0426,OUT_1790,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0427,OUT_1791,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0428,OUT_1792,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0429,OUT_1793,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0430,OUT_1794,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0431,OUT_1795,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0432,OUT_1796,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0433,OUT_1797,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0434,OUT_1798,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0435,OUT_1799,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
+ERR_0436,OUT_1800,Duplicate Record,Trùng số điện thoại và địa chỉ sau chuẩn hóa,2026-11-21,Open
